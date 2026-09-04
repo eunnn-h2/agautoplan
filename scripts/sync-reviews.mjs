@@ -10,18 +10,85 @@ const OUTPUT = path.resolve('data/reviews.json');
 
 const sleep = ms => new Promise(r => setTimeout(r, ms));
 
-function parseDate(text = '') {
-  const patterns = [
-    /(20\d{2})\s*[.\/-]\s*(\d{1,2})\s*[.\/-]\s*(\d{1,2})/,
-    /(20\d{2})\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일/
-  ];
-  for (const re of patterns) {
-    const m = String(text).match(re);
-    if (!m) continue;
-    const d = new Date(Number(m[1]), Number(m[2]) - 1, Number(m[3]));
-    if (!Number.isNaN(d.getTime())) return d;
+function koreaToday() {
+  const parts = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Seoul',
+    year: 'numeric',
+    month: '2-digit',
+    day: '2-digit'
+  }).formatToParts(new Date());
+
+  const value = type => Number(parts.find(part => part.type === type)?.value || 0);
+  return new Date(value('year'), value('month') - 1, value('day'));
+}
+
+function parseRelativeDate(text = '') {
+  const value = clean(text);
+  if (!value) return null;
+
+  const today = koreaToday();
+
+  if (/오늘|방금|\d+\s*(?:분|시간)\s*전/.test(value)) {
+    return today;
   }
+
+  if (/어제/.test(value)) {
+    today.setDate(today.getDate() - 1);
+    return today;
+  }
+
+  const daysAgo = value.match(/(\d+)\s*일\s*전/);
+  if (daysAgo) {
+    today.setDate(today.getDate() - Number(daysAgo[1]));
+    return today;
+  }
+
   return null;
+}
+
+function parseDate(text = '') {
+  const value = String(text || '');
+  const patterns = [
+    { re: /(20\d{2})\s*[.\/-]\s*(\d{1,2})\s*[.\/-]\s*(\d{1,2})/, shortYear: false },
+    { re: /(20\d{2})\s*년\s*(\d{1,2})\s*월\s*(\d{1,2})\s*일/, shortYear: false },
+    // 아임웹이 최신 글 날짜를 26.09.03처럼 2자리 연도로 표시하는 경우 대응
+    { re: /(?:^|\D)(\d{2})\s*[.\/-]\s*(\d{1,2})\s*[.\/-]\s*(\d{1,2})(?:\D|$)/, shortYear: true }
+  ];
+
+  for (const { re, shortYear } of patterns) {
+    const m = value.match(re);
+    if (!m) continue;
+    const year = shortYear ? 2000 + Number(m[1]) : Number(m[1]);
+    const month = Number(m[2]);
+    const day = Number(m[3]);
+    const d = new Date(year, month - 1, day);
+    if (
+      !Number.isNaN(d.getTime()) &&
+      d.getFullYear() === year &&
+      d.getMonth() === month - 1 &&
+      d.getDate() === day
+    ) return d;
+  }
+
+  return parseRelativeDate(value);
+}
+
+function parseImageDate(url = '') {
+  // 날짜 텍스트가 DOM에 없을 때 아임웹 업로드/썸네일 경로의 YYYYMMDD를 최후 보조값으로 사용한다.
+  const m = String(url || '').match(/\/(?:upload|thumbnail)\/(20\d{2})(\d{2})(\d{2})\//i);
+  if (!m) return null;
+
+  const year = Number(m[1]);
+  const month = Number(m[2]);
+  const day = Number(m[3]);
+  const d = new Date(year, month - 1, day);
+  if (
+    Number.isNaN(d.getTime()) ||
+    d.getFullYear() !== year ||
+    d.getMonth() !== month - 1 ||
+    d.getDate() !== day
+  ) return null;
+  return d;
 }
 
 function isoDate(d) {
@@ -549,13 +616,20 @@ async function parseDetail(page, item) {
 
   const combinedText = `${data.text || ''}\n${item.text || ''}`;
 
-  const date =
+  let date =
     parseDate(data.text) ||
     item.listDate ||
     parseDate(item.text);
 
   if (!date) {
-    console.warn(`[건너뜀] #${sourceOrder} id=${id} 날짜를 상세/목록 어디에서도 찾지 못함`);
+    date = parseImageDate(item.image) || parseImageDate(data.image);
+    if (date) {
+      console.warn(`[날짜 보조] #${sourceOrder} id=${id} 날짜 텍스트가 없어 이미지 경로 날짜 ${isoDate(date)} 사용`);
+    }
+  }
+
+  if (!date) {
+    console.warn(`[건너뜀] #${sourceOrder} id=${id} 날짜를 상세/목록/이미지 경로 어디에서도 찾지 못함`);
     return null;
   }
 
@@ -659,7 +733,7 @@ try {
   const firstOrder = unique[0]?.sourceOrder;
 
   if (firstOrder !== 0) {
-    console.warn(`경고: 첫 저장 후기 sourceOrder=${firstOrder}. 목록 최신 글 일부가 파싱되지 않았을 수 있습니다.`);
+    throw new Error(`최신 후기 누락 감지: 첫 저장 후기 sourceOrder=${firstOrder}. 최신 글을 건너뛴 상태라 stale JSON 저장을 중단합니다.`);
   }
 
   const invalidSavedTitles = unique.filter(review => isInvalidTitle(review.title));

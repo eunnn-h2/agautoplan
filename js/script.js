@@ -11379,6 +11379,259 @@ const vehicleCatalog = [
   const reviewSection = document.getElementById("reviewSection");
   const reviewParking = document.getElementById("reviewParking");
 
+  // STEP 02: 트림 설명을 먼저 열고, 고객이 확인한 경우에만 subTrim에 반영합니다.
+  const trimDetailModal = document.getElementById("trimDetailModal");
+  const confirmTrimSelectionButton = document.getElementById("confirmTrimSelection");
+  let pendingSubTrim = "";
+  // 모바일 전체 화면을 닫을 때 임시 히스토리가 이전의 트림 선택값을 덮어쓰지 않도록 관리합니다.
+  const TRIM_DETAIL_HISTORY_KEY = "autogenieTrimDetailScreen";
+  let trimDetailHistoryActive = false;
+  let trimDetailHistoryExitPending = false;
+
+  // 데스크탑 트림 팝업이 열린 동안에는 배경 페이지의 휠 스크롤을 막습니다.
+  // overflow 잠금만 사용하므로 현재 페이지 스크롤 위치가 그대로 유지됩니다.
+  function setTrimBackgroundScrollLock(locked) {
+    document.documentElement.classList.toggle("trim-detail-scroll-locked", locked);
+    document.body.classList.toggle("trim-detail-scroll-locked", locked);
+  }
+
+  // 트림별 설명(그랜저 포함)은 js/trim-reference-data.js에서 일괄 관리합니다.
+  // 팝업 공통 로직은 이 파일에서 처리합니다.
+  function openTrimDetailModal(trimName) {
+    if (!trimName || state.step !== 2 || !state.trim) return;
+    const modelGroup = currentVehicle()?.detailModels?.find(group => group.name === state.trim);
+    if (!modelGroup || !modelGroup.trims.includes(trimName)) return;
+
+    const descriptionKey = [state.brandName, state.carName, state.trim, trimName].join("|");
+    // 차종 단위 공통 이미지 대신 반드시 차종 + 실제 선택한 트림을 기준으로 매핑합니다.
+    // 확인된 기본 사양이 아닐 때는 자료에 없는 업그레이드를 사실로 안내하지 않습니다.
+    const referenceKey = [state.brandName, state.carName, trimName].join("|");
+    const referenceGroupKey = [state.brandName, state.carName, state.trim, trimName].join("|");
+    const registeredDetail = window.AutoGenieTrimReference?.[descriptionKey]
+      || window.AutoGenieTrimReference?.[referenceGroupKey]
+      || window.AutoGenieTrimReference?.[referenceKey]
+      || null;
+    const compareTitle = document.getElementById("trimDetailCompareTitle");
+    const comparisonSection = document.getElementById("trimDetailComparison");
+    const inheritedList = document.getElementById("trimDetailInheritedList");
+    const addedList = document.getElementById("trimDetailAddedList");
+    const comparisonFoot = document.getElementById("trimDetailComparisonFoot");
+    const inheritedTitle = document.getElementById("trimDetailInheritedTitle");
+    const addedTitle = document.getElementById("trimDetailAddedTitle");
+    const upgrade = registeredDetail?.upgrade;
+    const hasComparison = Boolean(upgrade && Array.isArray(registeredDetail?.inheritedHighlights));
+    // 기아 5개 차종의 비교 목록은 검수 미완료 상태라도 숨기지 않습니다.
+    // verified:false 자체는 유지하여 기본 적용 확인 완료로 오인하지 않게 합니다.
+    const showPendingKiaUpgrade = state.brandName === "기아"
+      && ["셀토스 하이브리드", "스포티지 하이브리드", "쏘렌토 하이브리드", "카니발", "카니발 하이브리드"].includes(state.carName)
+      && Array.isArray(upgrade?.items)
+      && upgrade.items.length > 0;
+
+    if (comparisonSection && inheritedList && addedList && comparisonFoot && inheritedTitle && addedTitle) {
+      comparisonSection.hidden = !hasComparison;
+      if (!hasComparison) comparisonSection.classList.remove("trim-detail-modal__comparison--pending");
+      inheritedList.replaceChildren();
+      addedList.replaceChildren();
+
+      if (hasComparison) {
+        const isUnverified = upgrade.verified === false;
+        const inheritedGroup = inheritedList.closest(".trim-detail-modal__comparison-group");
+        const addedBadge = comparisonSection.querySelector(".trim-detail-modal__upgrade-badge");
+        if (inheritedGroup) inheritedGroup.hidden = !registeredDetail.inheritedHighlights.length;
+        // 검수 중인 5개 차종도 비교 목록이 있으면 UPGRADE 영역을 표시합니다.
+        if (addedBadge) addedBadge.hidden = isUnverified && !showPendingKiaUpgrade;
+        inheritedTitle.textContent = `${upgrade.previous}에서 이어지는 주요 사양`;
+        addedTitle.textContent = isUnverified && !showPendingKiaUpgrade
+          ? (upgrade.label || "사양 비교 확인 필요")
+          : trimName.includes("블랙 잉크")
+            ? "달라지는 디자인 포인트"
+            : "새로 추가된 기능";
+
+        registeredDetail.inheritedHighlights.forEach(label => {
+          const li = document.createElement("li");
+          const marker = document.createElement("span");
+          marker.className = "trim-detail-modal__check";
+          marker.setAttribute("aria-hidden", "true");
+          marker.textContent = "✓";
+          const txt = document.createElement("span");
+          txt.textContent = label;
+          li.append(marker, txt);
+          inheritedList.append(li);
+        });
+
+        upgrade.items.forEach(label => {
+          const li = document.createElement("li");
+          const marker = document.createElement("span");
+          marker.className = isUnverified
+            ? "trim-detail-modal__check"
+            : "trim-detail-modal__check trim-detail-modal__check--plus";
+          marker.setAttribute("aria-hidden", "true");
+          marker.textContent = isUnverified ? "✓" : "+";
+          const txt = document.createElement("span");
+          txt.textContent = label;
+          li.append(marker, txt);
+          addedList.append(li);
+        });
+        if (isUnverified && !upgrade.items.length) {
+          const li = document.createElement("li");
+          li.className = "trim-detail-modal__comparison-pending";
+          li.textContent = "제공된 자료에서 이 트림의 추가 기본 사양을 확인할 수 없습니다.";
+          addedList.append(li);
+        }
+        // 5개 기아 차종의 검수 중 비교자료는 안내 문구를 유지하되, 기존 파란색 UPGRADE 스타일을 사용합니다.
+        // (pending 클래스를 붙이면 CSS가 제목과 배경을 회색으로 덮어씁니다.)
+        comparisonSection.classList.toggle("trim-detail-modal__comparison--pending", isUnverified && !showPendingKiaUpgrade);
+        comparisonFoot.textContent = (upgrade.note || "이전 트림의 기본 사양을 포함합니다.")
+          + (isUnverified && showPendingKiaUpgrade
+            ? " ※ 위 추가·변경 사양은 현재 기본 적용 검수 중입니다. 제조사 가격표에서 트림별 기본품목·선택품목을 반드시 확인해 주세요."
+            : "");
+      }
+    }
+
+    if (compareTitle) compareTitle.textContent = hasComparison
+      ? "주요 사양"
+      : registeredDetail?.featureStatus === "optional" ? "선택 가능한 기능"
+      : registeredDetail?.referenceOnly ? "트림 적용 확인이 필요한 참고 기능"
+      : registeredDetail ? "주요 기본 사양" : "트림별로 달라질 수 있는 부분";
+    const defaultHighlights = [
+      "기본 포함 사양: 안전·편의 기능 등의 구성",
+      "선택 가능 옵션: 추가할 수 있는 옵션과 패키지",
+      "차량 가격: 트림 및 선택 옵션에 따른 견적 차이"
+    ];
+
+    // 텍스트 노드로 넣어 트림명에 특수문자가 있어도 HTML로 해석되지 않게 합니다.
+    document.getElementById("trimDetailVehicle").textContent =
+      `${state.brandName} ${state.carName} · ${state.trim}`;
+    document.getElementById("trimDetailModalTitle").textContent = trimName;
+
+    // 차량 외관 대표 이미지는 사용하지 않고, 검증된 트림별 '핵심 기능' 이미지만 표시합니다.
+    // 미등록 트림은 이미지 블록 자체를 숨겨 잘못된 옵션을 안내하지 않도록 합니다.
+    // 등록 예시: window.AutoGenieTrimReference["브랜드|차량|세부모델|트림"].featureImage
+    const trimVisual = document.getElementById("trimDetailVisual");
+    const trimImage = document.getElementById("trimDetailImage");
+    const trimFeatureName = document.getElementById("trimDetailFeatureName");
+    const trimImageCaption = document.getElementById("trimDetailImageCaption");
+    const featureLabel = document.getElementById("trimDetailFeatureLabel");
+    if (featureLabel) featureLabel.textContent =
+      registeredDetail?.featureStatus === "added" ? "이번 트림부터 기본 적용되는 기능"
+      : registeredDetail?.featureStatus === "standard" ? "트림 기본 적용 기능"
+      : registeredDetail?.featureStatus === "optional" ? "이 트림에서 선택 가능한 기능"
+      : registeredDetail?.referenceOnly ? "차종 참고 기능" : "대표 핵심 기능";
+    if (trimVisual && trimImage && trimFeatureName && trimImageCaption) {
+      trimVisual.hidden = true;
+      trimImage.onerror = null;
+      trimImage.removeAttribute("src");
+      trimImage.alt = "";
+      const featureImage = registeredDetail?.featureImage;
+      if (featureImage && registeredDetail.featureTitle) {
+        trimFeatureName.textContent = registeredDetail.featureTitle;
+        trimImage.alt = registeredDetail.featureAlt || `${state.carName}의 ${registeredDetail.featureTitle} 기능 참고 이미지`;
+        trimImageCaption.textContent = registeredDetail.featureCaption || "기능 설명을 위한 이미지입니다. 실제 적용 사양은 연식과 옵션에 따라 달라질 수 있습니다.";
+        trimImage.classList.toggle("trim-detail-modal__image--contain", registeredDetail.featureImageDisplay === "contain");
+        trimImage.onerror = () => { trimVisual.hidden = true; };
+        trimImage.src = assetUrl(featureImage);
+        trimVisual.hidden = false;
+      } else {
+        trimFeatureName.textContent = "";
+        trimImageCaption.textContent = "";
+      }
+    }
+
+    document.getElementById("trimDetailModalSummary").textContent = registeredDetail?.summary ||
+      `‘${trimName}’ 트림은 선택한 차량의 세부 등급이에요. 같은 차량이라도 트림에 따라 기본 제공되는 사양과 선택 가능한 옵션이 달라질 수 있어요.`;
+
+    const noticeText = document.querySelector(".trim-detail-modal__notice p");
+    if (noticeText) noticeText.textContent = registeredDetail?.featureStatus === "optional"
+      ? "이 기능은 제공된 대표 차량 구성에서 선택 가능한 옵션으로 확인됐습니다. 실제 주문 가능 여부와 가격은 연식·엔진·패키지에 따라 달라질 수 있습니다."
+      : registeredDetail?.referenceOnly
+        ? "이 이미지는 해당 차종의 참고 기능이며, 현재 선택한 트림에서 새로 추가되거나 기본 제공된다는 뜻은 아닙니다. 정확한 적용 여부는 연식·세부모델별 사양표를 확인해 주세요."
+        : "기본 사양과 선택 옵션은 차량, 연식, 세부모델에 따라 달라질 수 있습니다. 정확한 구성은 상담 시 확인해 주세요.";
+    const highlightList = document.getElementById("trimDetailHighlights");
+    highlightList.replaceChildren();
+    highlightList.hidden = hasComparison;
+    const highlights = Array.isArray(registeredDetail?.highlights) && registeredDetail.highlights.length
+      ? registeredDetail.highlights
+      : defaultHighlights;
+    if (!hasComparison) {
+      highlights.forEach(item => {
+        const li = document.createElement("li");
+        const marker = document.createElement("span");
+        marker.className = "trim-detail-modal__check";
+        marker.setAttribute("aria-hidden", "true");
+        marker.textContent = "✓";
+        const text = document.createElement("span");
+        text.textContent = item;
+        li.append(marker, text);
+        highlightList.append(li);
+      });
+    }
+
+    pendingSubTrim = trimName;
+    if (trimDetailModal?.showModal) {
+      // 히스토리와 선택값이 뒤섞이지 않도록 모바일에서만 별도 화면 이력을 생성합니다.
+      if (window.matchMedia("(max-width: 768px)").matches) {
+        rememberWizardStep();
+        window.history.pushState(
+          { ...(window.history.state || {}), [TRIM_DETAIL_HISTORY_KEY]: true }, "", window.location.href
+        );
+        trimDetailHistoryActive = true;
+      }
+      trimDetailModal.showModal();
+      setTrimBackgroundScrollLock(true);
+      // 최초 진입 시 닫기 버튼에 포커스 테두리가 생기지 않도록 제목으로 포커스를 이동합니다.
+      document.getElementById("trimDetailModalTitle")?.focus({ preventScroll: true });
+      // 이전 트림의 스크롤 위치가 남지 않도록 상세 내용을 처음부터 보여줍니다.
+      trimDetailModal.querySelector(".trim-detail-modal__body")?.scrollTo(0, 0);
+    } else {
+      // dialog 미지원 브라우저에서도 확인 전 자동 선택은 하지 않습니다.
+      if (window.confirm(`${state.brandName} ${state.carName} - ${state.trim} / ${trimName}\n이 트림을 선택하시겠습니까?`)) {
+        commitTrimSelection();
+      } else {
+        pendingSubTrim = "";
+      }
+    }
+  }
+
+  function commitTrimSelection() {
+    const selected = pendingSubTrim;
+    if (!selected || state.step !== 2 || !state.trim) return;
+    // 선택한 트림이 현재 차량/세부모델에 실제 존재하는지 다시 확인합니다.
+    const group = currentVehicle()?.detailModels?.find(item => item.name === state.trim);
+    if (!group?.trims.includes(selected)) return;
+
+    // 중요: 팝업을 닫기 전에 STEP 02의 실제 선택값을 먼저 확정합니다.
+    // 이후 렌더·뒤로가기 이벤트에서 선택 전 상태로 복원되지 않도록 합니다.
+    state.subTrim = selected;
+    pendingSubTrim = "";
+    render();
+    showValidation("");
+    rememberWizardStep();
+    if (trimDetailModal?.open) trimDetailModal.close();
+    // 선택 확정 직후의 목록 스크롤이 정상 작동하도록 먼저 잠금을 해제합니다.
+    setTrimBackgroundScrollLock(false);
+
+    // 해당 트림의 선택 표시(라디오·active)가 보이도록 목록으로 돌아갑니다.
+    scrollToNextSelection('[data-option-section="sub-trim"]', "start");
+  }
+
+  confirmTrimSelectionButton?.addEventListener("click", commitTrimSelection);
+  trimDetailModal?.querySelectorAll("[data-trim-close]").forEach(button => {
+    button.addEventListener("click", () => trimDetailModal.close());
+  });
+  trimDetailModal?.addEventListener("click", event => {
+    // 팝업 바깥의 어두운 배경을 클릭하면 취소합니다.
+    if (event.target === trimDetailModal) trimDetailModal.close();
+  });
+  trimDetailModal?.addEventListener("close", () => {
+    setTrimBackgroundScrollLock(false);
+    // 취소는 기존 선택 유지, 확정은 이미 commitTrimSelection에서 선택 반영.
+    pendingSubTrim = "";
+    if (trimDetailHistoryActive && !trimDetailHistoryExitPending) {
+      trimDetailHistoryExitPending = true;
+      window.history.back();
+    }
+  });
+
   function updateReviewPlacement() {
     if (!reviewSection || !reviewParking) return;
 
@@ -11747,7 +12000,7 @@ const vehicleCatalog = [
                   ${isActive ? `
                     <div class="sub-trim-list" data-option-section="sub-trim">
                       ${group.trims.map(item => `
-                        <button class="sub-trim-item ${item === state.subTrim ? "active" : ""}" type="button" data-sub-trim="${item}">
+                        <button class="sub-trim-item ${item === state.subTrim ? "active" : ""}" type="button" data-sub-trim="${item}" aria-haspopup="dialog" aria-controls="trimDetailModal" aria-pressed="${item === state.subTrim}">
                           <span class="radio-ui ${item === state.subTrim ? "checked" : ""}" aria-hidden="true"></span>
                           <strong>${item}</strong>
                         </button>
@@ -12454,12 +12707,7 @@ const vehicleCatalog = [
 
     content.querySelectorAll("[data-sub-trim]").forEach(button => {
       button.addEventListener("click", () => {
-        state.subTrim = button.dataset.subTrim;
-        render();
-
-        // 하위 트림을 선택해도 하단 버튼으로 이동하지 않고
-        // 2페이지의 "1. 세부모델" 위치에 고정합니다.
-        scrollToNextSelection('[data-option-section="engine-model"]', "start");
+        openTrimDetailModal(button.dataset.subTrim);
       });
     });
 
@@ -12889,6 +13137,14 @@ const vehicleCatalog = [
   }
 
   window.addEventListener("popstate", event => {
+    // 모바일 트림 상세 화면만 닫는 뒤로가기는 견적 단계 뒤로가기로 취급하지 않습니다.
+    if (trimDetailHistoryActive) {
+      trimDetailHistoryActive = false;
+      trimDetailHistoryExitPending = false;
+      if (trimDetailModal?.open) trimDetailModal.close();
+      rememberWizardStep();
+      return;
+    }
     const saved = event.state?.[WIZARD_HISTORY_KEY];
     if (!saved || !Number.isInteger(saved.step) || saved.step < 1 || saved.step > 4) return;
     Object.assign(state, saved);

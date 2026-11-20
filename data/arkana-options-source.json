@@ -1,0 +1,6232 @@
+{
+  "categories": [
+    "파워트레인",
+    "안전",
+    "외관",
+    "내장",
+    "편의",
+    "멀티미디어",
+    "공조시스템"
+  ],
+  "configs": [
+    {
+      "slug": "gas",
+      "car": "아르카나",
+      "model": "1.6 가솔린",
+      "trim": "Iconic",
+      "code": "BNBALFZJ11EDE",
+      "basics": {
+        "파워트레인": [
+          "1.6 GTe(가솔린)엔진",
+          "엑스트로닉(Xtronic) 무단 변속기",
+          "오토 스탑/스타트 시스템",
+          "에코 모드"
+        ],
+        "안전": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+          "차간거리 경보 시스템",
+          "차선 이탈 경보 시스템(LDW)",
+          "차선 이탈 방지 보조 시스템(LKA)",
+          "오토매틱 하이빔(AHL)",
+          "운전피로도 경보 시스템(DDAW)",
+          "QRescue",
+          "앞좌석 에어백(운전석/동승석)",
+          "사이드(앞)/커튼 에어백",
+          "차체자세 제어장치(ESC)",
+          "경사로 밀림 방지 장치(HSA)",
+          "타이어 공기압 자동감지 시스템",
+          "EBD-ABS (BAS 내장)",
+          "충돌감지 도어록 해제장치",
+          "중앙집중식 도어록/차속 감응 오토 도어록",
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+          "뒷좌석 3점식 시트벨트",
+          "ISOFIX 유아용 시트 고정 장치",
+          "전/후륜 디스크 브레이크",
+          "원터치 트리플 턴 시그널",
+          "차량용 소화기"
+        ],
+        "외관": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+          "새틴 크롬 로장주 엠블럼",
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+          "LED PURE VISION 헤드램프",
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+          "LED 주간 주행등",
+          "새틴 크롬 데코(사이드 엠블리셔)",
+          "LED 방향 지시등(전방)",
+          "LED 방향 지시등 일체형 아웃사이드 미러",
+          "블랙 아웃사이드 미러 커버",
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+          "프런트/리어 그레이 스키드",
+          "샤크 안테나"
+        ],
+        "내장": [
+          "블랙 인조 가죽 시트",
+          "10.25” TFT 클러스터",
+          "블랙 헤드라이너",
+          "LED 룸 램프",
+          "선바이저 조명(운전석 /동승석)",
+          "글로브 박스 조명",
+          "2열 센터 암레스트(컵홀더 포함)",
+          "소프트 필 스티어링 휠",
+          "블랙 인테리어",
+          "운전석/동승석 매뉴얼 시트 높이 조절장치",
+          "앞좌석 슬라이딩 암레스트",
+          "도어포켓(앞/뒤)",
+          "앞좌석 컵홀더",
+          "운전석/동승석 선바이저(거울 포함)",
+          "맵 램프",
+          "룸 램프",
+          "2열 6:4 폴딩시트",
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "편의": [
+          "앞좌석 통풍/열선시트",
+          "오토홀드",
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+          "컬러 가변형 앰비언트 라이트",
+          "주차 조향 보조 시스템(EPA)",
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+          "스마트폰 무선 충전",
+          "열선 스티어링 휠",
+          "오토라이팅 헤드램프",
+          "레인센싱 와이퍼",
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+          "전자식 파킹브레이크",
+          "원터치 세이프티 파워 윈도우(전좌석)",
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+          "후방 경보 시스템",
+          "후방 카메라",
+          "패들 시프트",
+          "12V 파워 아웃렛(앞좌석)",
+          "트립 컴퓨터",
+          "수동식 틸트/텔레스코픽 스티어링 휠",
+          "전자식 차속 감응파워 스티어링(SSEPS)",
+          "크루즈 컨트롤/스피드리미터",
+          "하이패스/전자식 룸 미러"
+        ],
+        "멀티미디어": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+          "6 스피커",
+          "AUX & USB 단자",
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+          "스티어링 휠 오디오 리모컨",
+          "뒷좌석 USB 단자"
+        ],
+        "공조시스템": [
+          "오토 에어컨",
+          "리어 에어 벤트",
+          "초미세먼지 고효율 필터"
+        ]
+      },
+      "key": "르노|아르카나|1.6 가솔린|Iconic",
+      "options": [
+        {
+          "code": "----P",
+          "name": "카멜 브라운 인조 가죽시트 패키지",
+          "price": 750000,
+          "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/----D00.jpg"
+        },
+        {
+          "code": "--H--",
+          "name": "360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)",
+          "price": 660000,
+          "description": "360o 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/--M--_00.jpg"
+        },
+        {
+          "code": "-B---",
+          "name": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+          "price": 700000,
+          "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/-B---_00.jpg"
+        }
+      ],
+      "accessories": [
+        {
+          "code": "RK9",
+          "name": "리어스포일러(블랙)",
+          "price": 150000,
+          "description": "※ 적용 차종 :  Renault Arkana iconic",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/RK9.webp"
+        },
+        {
+          "code": "AP7",
+          "name": "프리미엄 스포츠 페달",
+          "price": 62000,
+          "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/AP7_00.jpg"
+        },
+        {
+          "code": "CB5",
+          "name": "뒷좌석 전용 초고속 급속 충전기",
+          "price": 67000,
+          "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/CB5_00.jpg"
+        },
+        {
+          "code": "CM2",
+          "name": "프리미엄 코일 매트",
+          "price": 39000,
+          "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KM1_00.webp"
+        },
+        {
+          "code": "DL4",
+          "name": "로장주 도어 스팟 램프",
+          "price": 140000,
+          "description": "",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/DL1_00.jpg"
+        },
+        {
+          "code": "KL8",
+          "name": "일루미네이팅 키킹 플레이트",
+          "price": 165000,
+          "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KL8_00.jpg"
+        },
+        {
+          "code": "PT4",
+          "name": "파워 테일게이트",
+          "price": 800000,
+          "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/PT4.jpg"
+        },
+        {
+          "code": "ST5",
+          "name": "사이드 스텝",
+          "price": 410000,
+          "description": "",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/ST5_00.jpg"
+        },
+        {
+          "code": "WL3",
+          "name": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+          "price": 190000,
+          "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg"
+        },
+        {
+          "code": "WL7",
+          "name": "언더바디 웰컴 라이트",
+          "price": 190000,
+          "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "hybrid",
+      "car": "아르카나 하이브리드",
+      "model": "1.6 HEV",
+      "trim": "Iconic",
+      "code": "BNGALFHJ11HDE",
+      "basics": {
+        "파워트레인": [
+          "하이브리드 E-Tech 1.6 GTe 엔진",
+          "클러치리스 멀티모드 오토(6단)",
+          "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)",
+          "EV 모드"
+        ],
+        "안전": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+          "차간거리 경보 시스템",
+          "차선 이탈 경보 시스템(LDW)",
+          "차선 이탈 방지 보조 시스템(LKA)",
+          "오토매틱 하이빔(AHL)",
+          "운전피로도 경보 시스템(DDAW)",
+          "QRescue",
+          "앞좌석 에어백(운전석/동승석)",
+          "사이드(앞)/커튼 에어백",
+          "차체자세 제어장치(ESC)",
+          "경사로 밀림 방지 장치(HSA)",
+          "타이어 공기압 자동감지 시스템",
+          "EBD-ABS (BAS 내장)",
+          "충돌감지 도어록 해제장치",
+          "중앙집중식 도어록/차속 감응 오토 도어록",
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+          "뒷좌석 3점식 시트벨트",
+          "ISOFIX 유아용 시트 고정 장치",
+          "전/후륜 디스크 브레이크",
+          "원터치 트리플 턴 시그널",
+          "차량용 소화기",
+          "사각지대 경보 시스템(BSW)",
+          "후방교차 충돌 경보 시스템(RCTA)"
+        ],
+        "외관": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+          "새틴 크롬 로장주 엠블럼",
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+          "LED PURE VISION 헤드램프",
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+          "LED 주간 주행등",
+          "새틴 크롬 데코(사이드 엠블리셔)",
+          "LED 방향 지시등(전방)",
+          "LED 방향 지시등 일체형 아웃사이드 미러",
+          "블랙 아웃사이드 미러 커버",
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+          "프런트/리어 그레이 스키드",
+          "샤크 안테나"
+        ],
+        "내장": [
+          "블랙 인조 가죽 시트",
+          "10.25” TFT 클러스터",
+          "블랙 헤드라이너",
+          "LED 룸 램프",
+          "선바이저 조명(운전석 /동승석)",
+          "글로브 박스 조명",
+          "2열 센터 암레스트(컵홀더 포함)",
+          "소프트 필 스티어링 휠",
+          "블랙 인테리어",
+          "운전석/동승석 매뉴얼 시트 높이 조절장치",
+          "앞좌석 슬라이딩 암레스트",
+          "도어포켓(앞/뒤)",
+          "앞좌석 컵홀더",
+          "운전석/동승석 선바이저(거울 포함)",
+          "맵 램프",
+          "룸 램프",
+          "2열 6:4 폴딩시트",
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "편의": [
+          "앞좌석 통풍/열선시트",
+          "오토홀드",
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+          "컬러 가변형 앰비언트 라이트",
+          "주차 조향 보조 시스템(EPA)",
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+          "스마트폰 무선 충전",
+          "열선 스티어링 휠",
+          "오토라이팅 헤드램프",
+          "레인센싱 와이퍼",
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+          "전자식 파킹브레이크",
+          "원터치 세이프티 파워 윈도우(전좌석)",
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+          "후방 경보 시스템",
+          "후방 카메라",
+          "12V 파워 아웃렛(앞좌석)",
+          "트립 컴퓨터",
+          "수동식 틸트/텔레스코픽 스티어링 휠",
+          "전자식 차속 감응파워 스티어링(SSEPS)",
+          "하이패스/전자식 룸 미러",
+          "스피드리미터",
+          "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)",
+          "E-시프터(전자식 기어 변속기)"
+        ],
+        "멀티미디어": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+          "6 스피커",
+          "AUX & USB 단자",
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+          "스티어링 휠 오디오 리모컨",
+          "뒷좌석 USB 단자"
+        ],
+        "공조시스템": [
+          "오토 에어컨",
+          "리어 에어 벤트",
+          "초미세먼지 고효율 필터"
+        ]
+      },
+      "key": "르노|아르카나 하이브리드|1.6 HEV|Iconic",
+      "options": [
+        {
+          "code": "----P",
+          "name": "카멜 브라운 인조 가죽시트 패키지",
+          "price": 750000,
+          "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/----D00.jpg"
+        },
+        {
+          "code": "--M--",
+          "name": "360° 어라운드 뷰 모니터",
+          "price": 500000,
+          "description": "360° 어라운드 뷰 모니터",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/--M--_00.jpg"
+        },
+        {
+          "code": "-B---",
+          "name": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+          "price": 700000,
+          "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/-B---_00.jpg"
+        }
+      ],
+      "accessories": [
+        {
+          "code": "RK9",
+          "name": "리어스포일러(블랙)",
+          "price": 150000,
+          "description": "※ 적용 차종 :  Renault Arkana iconic",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/RK9.webp"
+        },
+        {
+          "code": "AP7",
+          "name": "프리미엄 스포츠 페달",
+          "price": 62000,
+          "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/AP7_00.jpg"
+        },
+        {
+          "code": "CB5",
+          "name": "뒷좌석 전용 초고속 급속 충전기",
+          "price": 67000,
+          "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/CB5_00.jpg"
+        },
+        {
+          "code": "CM2",
+          "name": "프리미엄 코일 매트",
+          "price": 39000,
+          "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KM1_00.webp"
+        },
+        {
+          "code": "DL4",
+          "name": "로장주 도어 스팟 램프",
+          "price": 140000,
+          "description": "",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/DL1_00.jpg"
+        },
+        {
+          "code": "KL8",
+          "name": "일루미네이팅 키킹 플레이트",
+          "price": 165000,
+          "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KL8_00.jpg"
+        },
+        {
+          "code": "PT4",
+          "name": "파워 테일게이트",
+          "price": 800000,
+          "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/PT4.jpg"
+        },
+        {
+          "code": "ST5",
+          "name": "사이드 스텝",
+          "price": 410000,
+          "description": "",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/ST5_00.jpg"
+        },
+        {
+          "code": "WL3",
+          "name": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+          "price": 190000,
+          "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg"
+        },
+        {
+          "code": "WL7",
+          "name": "언더바디 웰컴 라이트",
+          "price": 190000,
+          "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+          "excludes": [],
+          "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg"
+        }
+      ]
+    }
+  ],
+  "basicImages": [
+    {
+      "match": "크리스탈 3D 타입 LED 리어 콤비네이션 램프",
+      "title": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction2.webp"
+    },
+    {
+      "match": "새틴 크롬 로장주 엠블럼",
+      "title": "새틴 크롬 로장주 엠블럼",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction6.webp"
+    },
+    {
+      "match": "openR link",
+      "title": "openR link 9.3” 내비게이션",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/editorial/car_img_editorial02_new.webp"
+    },
+    {
+      "match": "2열 6:4 폴딩시트",
+      "title": "2열 6:4 폴딩시트",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/inside/car_img_inside03.webp"
+    }
+  ],
+  "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+  "pdf": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+  "detailSource": "https://www.renault.co.kr/ko/model/detail_option.jsp?mcode=A214",
+  "images": [
+    {
+      "assetKey": "0",
+      "title": "카멜 브라운 인조 가죽시트 패키지",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/----D00.jpg",
+      "carName": "아르카나",
+      "original": "images/0.jpg",
+      "localPath": "르노/아르카나/카멜 브라운 인조 가죽시트 패키지.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 29196
+    },
+    {
+      "assetKey": "1",
+      "title": "360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/--M--_00.jpg",
+      "carName": "아르카나",
+      "original": "images/1.jpg",
+      "localPath": "르노/아르카나/360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA).webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 26368
+    },
+    {
+      "assetKey": "2",
+      "title": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/-B---_00.jpg",
+      "carName": "아르카나",
+      "original": "images/2.jpg",
+      "localPath": "르노/아르카나/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 60764
+    },
+    {
+      "assetKey": "3",
+      "title": "리어스포일러(블랙)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/RK9.webp",
+      "carName": "아르카나",
+      "original": "images/3.jpg",
+      "localPath": "르노/아르카나/리어스포일러(블랙).webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 14824
+    },
+    {
+      "assetKey": "4",
+      "title": "프리미엄 스포츠 페달",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/AP7_00.jpg",
+      "carName": "아르카나",
+      "original": "images/4.jpg",
+      "localPath": "르노/아르카나/프리미엄 스포츠 페달.webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 94934
+    },
+    {
+      "assetKey": "5",
+      "title": "뒷좌석 전용 초고속 급속 충전기",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/CB5_00.jpg",
+      "carName": "아르카나",
+      "original": "images/5.jpg",
+      "localPath": "르노/아르카나/뒷좌석 전용 초고속 급속 충전기.webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 26350
+    },
+    {
+      "assetKey": "6",
+      "title": "프리미엄 코일 매트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KM1_00.webp",
+      "carName": "아르카나",
+      "original": "images/6.jpg",
+      "localPath": "르노/아르카나/프리미엄 코일 매트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 12872
+    },
+    {
+      "assetKey": "7",
+      "title": "로장주 도어 스팟 램프",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/DL1_00.jpg",
+      "carName": "아르카나",
+      "original": "images/7.jpg",
+      "localPath": "르노/아르카나/로장주 도어 스팟 램프.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 10578
+    },
+    {
+      "assetKey": "8",
+      "title": "일루미네이팅 키킹 플레이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KL8_00.jpg",
+      "carName": "아르카나",
+      "original": "images/8.jpg",
+      "localPath": "르노/아르카나/일루미네이팅 키킹 플레이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 18854
+    },
+    {
+      "assetKey": "9",
+      "title": "파워 테일게이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/PT4.jpg",
+      "carName": "아르카나",
+      "original": "images/9.jpg",
+      "localPath": "르노/아르카나/파워 테일게이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 30658
+    },
+    {
+      "assetKey": "10",
+      "title": "사이드 스텝",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/ST5_00.jpg",
+      "carName": "아르카나",
+      "original": "images/10.jpg",
+      "localPath": "르노/아르카나/사이드 스텝.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 30586
+    },
+    {
+      "assetKey": "11",
+      "title": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg",
+      "carName": "아르카나",
+      "original": "images/11.jpg",
+      "localPath": "르노/아르카나/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 17018
+    },
+    {
+      "assetKey": "12",
+      "title": "언더바디 웰컴 라이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg",
+      "carName": "아르카나",
+      "original": "images/12.jpg",
+      "localPath": "르노/아르카나/언더바디 웰컴 라이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 17018
+    },
+    {
+      "assetKey": "13",
+      "title": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction2.webp",
+      "carName": "아르카나",
+      "original": "images/13.jpg",
+      "localPath": "르노/아르카나/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+      "width": 756,
+      "height": 510,
+      "bytes": 40368
+    },
+    {
+      "assetKey": "14",
+      "title": "새틴 크롬 로장주 엠블럼",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction6.webp",
+      "carName": "아르카나",
+      "original": "images/14.jpg",
+      "localPath": "르노/아르카나/새틴 크롬 로장주 엠블럼.webp",
+      "width": 756,
+      "height": 510,
+      "bytes": 34138
+    },
+    {
+      "assetKey": "15",
+      "title": "openR link 9.3” 내비게이션",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/editorial/car_img_editorial02_new.webp",
+      "carName": "아르카나",
+      "original": "images/15.jpg",
+      "localPath": "르노/아르카나/openR link 9.3” 내비게이션.webp",
+      "width": 960,
+      "height": 1020,
+      "bytes": 100686
+    },
+    {
+      "assetKey": "16",
+      "title": "2열 6:4 폴딩시트",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/inside/car_img_inside03.webp",
+      "carName": "아르카나",
+      "original": "images/16.jpg",
+      "localPath": "르노/아르카나/2열 64 폴딩시트.webp",
+      "width": 885,
+      "height": 885,
+      "bytes": 175212
+    },
+    {
+      "assetKey": "17",
+      "title": "카멜 브라운 인조 가죽시트 패키지",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/----D00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/17.jpg",
+      "localPath": "르노/아르카나 하이브리드/카멜 브라운 인조 가죽시트 패키지.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 29196
+    },
+    {
+      "assetKey": "18",
+      "title": "360° 어라운드 뷰 모니터",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/--M--_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/18.jpg",
+      "localPath": "르노/아르카나 하이브리드/360° 어라운드 뷰 모니터.webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 26368
+    },
+    {
+      "assetKey": "19",
+      "title": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/opt/-B---_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/19.jpg",
+      "localPath": "르노/아르카나 하이브리드/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 60764
+    },
+    {
+      "assetKey": "20",
+      "title": "리어스포일러(블랙)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/RK9.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/20.jpg",
+      "localPath": "르노/아르카나 하이브리드/리어스포일러(블랙).webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 14824
+    },
+    {
+      "assetKey": "21",
+      "title": "프리미엄 스포츠 페달",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/AP7_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/21.jpg",
+      "localPath": "르노/아르카나 하이브리드/프리미엄 스포츠 페달.webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 94934
+    },
+    {
+      "assetKey": "22",
+      "title": "뒷좌석 전용 초고속 급속 충전기",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/CB5_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/22.jpg",
+      "localPath": "르노/아르카나 하이브리드/뒷좌석 전용 초고속 급속 충전기.webp",
+      "width": 852,
+      "height": 460,
+      "bytes": 26350
+    },
+    {
+      "assetKey": "23",
+      "title": "프리미엄 코일 매트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KM1_00.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/23.jpg",
+      "localPath": "르노/아르카나 하이브리드/프리미엄 코일 매트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 12872
+    },
+    {
+      "assetKey": "24",
+      "title": "로장주 도어 스팟 램프",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/DL1_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/24.jpg",
+      "localPath": "르노/아르카나 하이브리드/로장주 도어 스팟 램프.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 10578
+    },
+    {
+      "assetKey": "25",
+      "title": "일루미네이팅 키킹 플레이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/KL8_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/25.jpg",
+      "localPath": "르노/아르카나 하이브리드/일루미네이팅 키킹 플레이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 18854
+    },
+    {
+      "assetKey": "26",
+      "title": "파워 테일게이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/PT4.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/26.jpg",
+      "localPath": "르노/아르카나 하이브리드/파워 테일게이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 30658
+    },
+    {
+      "assetKey": "27",
+      "title": "사이드 스텝",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/ST5_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/27.jpg",
+      "localPath": "르노/아르카나 하이브리드/사이드 스텝.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 30586
+    },
+    {
+      "assetKey": "28",
+      "title": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/28.jpg",
+      "localPath": "르노/아르카나 하이브리드/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 17018
+    },
+    {
+      "assetKey": "29",
+      "title": "언더바디 웰컴 라이트",
+      "url": "https://cdn.renault.co.kr/upload/asset/xm3/acc/WL7_00.jpg",
+      "carName": "아르카나 하이브리드",
+      "original": "images/29.jpg",
+      "localPath": "르노/아르카나 하이브리드/언더바디 웰컴 라이트.webp",
+      "width": 472,
+      "height": 265,
+      "bytes": 17018
+    },
+    {
+      "assetKey": "30",
+      "title": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction2.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/30.jpg",
+      "localPath": "르노/아르카나 하이브리드/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+      "width": 756,
+      "height": 510,
+      "bytes": 40368
+    },
+    {
+      "assetKey": "31",
+      "title": "새틴 크롬 로장주 엠블럼",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/introduction/car_img_introduction6.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/31.jpg",
+      "localPath": "르노/아르카나 하이브리드/새틴 크롬 로장주 엠블럼.webp",
+      "width": 756,
+      "height": 510,
+      "bytes": 34138
+    },
+    {
+      "assetKey": "32",
+      "title": "openR link 9.3” 내비게이션",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/editorial/car_img_editorial02_new.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/32.jpg",
+      "localPath": "르노/아르카나 하이브리드/openR link 9.3” 내비게이션.webp",
+      "width": 960,
+      "height": 1020,
+      "bytes": 100686
+    },
+    {
+      "assetKey": "33",
+      "title": "2열 6:4 폴딩시트",
+      "url": "https://cdn.renault.co.kr/ko/resource/img/upload/asset/arkana/inside/car_img_inside03.webp",
+      "carName": "아르카나 하이브리드",
+      "original": "images/33.jpg",
+      "localPath": "르노/아르카나 하이브리드/2열 64 폴딩시트.webp",
+      "width": 885,
+      "height": 885,
+      "bytes": 175212
+    }
+  ],
+  "byTrim": {
+    "르노|아르카나|1.6 가솔린|Iconic": [
+      {
+        "id": "arkana-gas-option-xxxxp",
+        "name": "카멜 브라운 인조 가죽시트 패키지",
+        "cardTitle": "카멜 브라운 인조 가죽시트 패키지",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "750,000원",
+        "image": "르노/아르카나/카멜 브라운 인조 가죽시트 패키지.webp",
+        "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트",
+        "showDetails": true,
+        "compositionTitles": [
+          "카멜 브라운 인조 가죽 시트",
+          "운전석/동승석 6WAY(높이 조절 포함) 파워시트",
+          "운전석 럼버 서포트",
+          "뒷좌석 열선시트"
+        ],
+        "detailImages": [
+          "르노/아르카나/카멜 브라운 인조 가죽시트 패키지.webp"
+        ],
+        "detailTitles": [
+          "카멜 브라운 인조 가죽시트 패키지"
+        ],
+        "detailSections": [
+          {
+            "title": "카멜 브라운 인조 가죽시트 패키지",
+            "image": "르노/아르카나/카멜 브라운 인조 가죽시트 패키지.webp",
+            "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceOptionCode": "----P"
+      },
+      {
+        "id": "arkana-gas-option-xxhxx",
+        "name": "360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)",
+        "cardTitle": "360° 어라운드 뷰 모니터 패키지",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "660,000원",
+        "image": "르노/아르카나/360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA).webp",
+        "description": "360o 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)",
+        "showDetails": true,
+        "compositionTitles": [
+          "360° 어라운드 뷰 모니터",
+          "사각지대 경보 시스템(BSW)",
+          "후방 충돌 경보 시스템(RCTA)"
+        ],
+        "detailImages": [
+          "르노/아르카나/360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA).webp"
+        ],
+        "detailTitles": [
+          "360° 어라운드 뷰 모니터 패키지"
+        ],
+        "detailSections": [
+          {
+            "title": "360° 어라운드 뷰 모니터 패키지",
+            "image": "르노/아르카나/360° 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA).webp",
+            "description": "360o 어라운드 뷰 모니터+사각지대 경보 시스템(BSW)+후방 충돌 경보 시스템(RCTA)"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceOptionCode": "--H--"
+      },
+      {
+        "id": "arkana-gas-option-xbxxx",
+        "name": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+        "cardTitle": "BOSE® 서라운드 사운드 시스템",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "700,000원",
+        "image": "르노/아르카나/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+        "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+        "showDetails": true,
+        "compositionTitles": [
+          "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)"
+        ],
+        "detailImages": [
+          "르노/아르카나/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp"
+        ],
+        "detailTitles": [
+          "BOSE® 서라운드 사운드 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "BOSE® 서라운드 사운드 시스템",
+            "image": "르노/아르카나/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+            "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceOptionCode": "-B---"
+      },
+      {
+        "id": "arkana-gas-accessory-rk9",
+        "name": "리어스포일러(블랙)",
+        "cardTitle": "리어스포일러(블랙)",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "150,000원",
+        "image": "르노/아르카나/리어스포일러(블랙).webp",
+        "description": "※ 적용 차종 :  Renault Arkana iconic",
+        "showDetails": true,
+        "compositionTitles": [
+          "리어스포일러(블랙)"
+        ],
+        "detailImages": [
+          "르노/아르카나/리어스포일러(블랙).webp"
+        ],
+        "detailTitles": [
+          "리어스포일러(블랙)"
+        ],
+        "detailSections": [
+          {
+            "title": "리어스포일러(블랙)",
+            "image": "르노/아르카나/리어스포일러(블랙).webp",
+            "description": "※ 적용 차종 :  Renault Arkana iconic"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "RK9"
+      },
+      {
+        "id": "arkana-gas-accessory-ap7",
+        "name": "프리미엄 스포츠 페달",
+        "cardTitle": "프리미엄 스포츠 페달",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "62,000원",
+        "image": "르노/아르카나/프리미엄 스포츠 페달.webp",
+        "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "프리미엄 스포츠 페달"
+        ],
+        "detailImages": [
+          "르노/아르카나/프리미엄 스포츠 페달.webp"
+        ],
+        "detailTitles": [
+          "프리미엄 스포츠 페달"
+        ],
+        "detailSections": [
+          {
+            "title": "프리미엄 스포츠 페달",
+            "image": "르노/아르카나/프리미엄 스포츠 페달.webp",
+            "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "AP7"
+      },
+      {
+        "id": "arkana-gas-accessory-cb5",
+        "name": "뒷좌석 전용 초고속 급속 충전기",
+        "cardTitle": "뒷좌석 전용 초고속 급속 충전기",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "67,000원",
+        "image": "르노/아르카나/뒷좌석 전용 초고속 급속 충전기.webp",
+        "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "뒷좌석 전용 초고속 급속 충전기"
+        ],
+        "detailImages": [
+          "르노/아르카나/뒷좌석 전용 초고속 급속 충전기.webp"
+        ],
+        "detailTitles": [
+          "뒷좌석 전용 초고속 급속 충전기"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 전용 초고속 급속 충전기",
+            "image": "르노/아르카나/뒷좌석 전용 초고속 급속 충전기.webp",
+            "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "CB5"
+      },
+      {
+        "id": "arkana-gas-accessory-cm2",
+        "name": "프리미엄 코일 매트",
+        "cardTitle": "프리미엄 코일 매트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "39,000원",
+        "image": "르노/아르카나/프리미엄 코일 매트.webp",
+        "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "프리미엄 코일 매트"
+        ],
+        "detailImages": [
+          "르노/아르카나/프리미엄 코일 매트.webp"
+        ],
+        "detailTitles": [
+          "프리미엄 코일 매트"
+        ],
+        "detailSections": [
+          {
+            "title": "프리미엄 코일 매트",
+            "image": "르노/아르카나/프리미엄 코일 매트.webp",
+            "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "CM2"
+      },
+      {
+        "id": "arkana-gas-accessory-dl4",
+        "name": "로장주 도어 스팟 램프",
+        "cardTitle": "로장주 도어 스팟 램프",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "140,000원",
+        "image": "르노/아르카나/로장주 도어 스팟 램프.webp",
+        "description": "로장주 도어 스팟 램프",
+        "showDetails": true,
+        "compositionTitles": [
+          "로장주 도어 스팟 램프"
+        ],
+        "detailImages": [
+          "르노/아르카나/로장주 도어 스팟 램프.webp"
+        ],
+        "detailTitles": [
+          "로장주 도어 스팟 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "로장주 도어 스팟 램프",
+            "image": "르노/아르카나/로장주 도어 스팟 램프.webp",
+            "description": "로장주 도어 스팟 램프"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "DL4"
+      },
+      {
+        "id": "arkana-gas-accessory-kl8",
+        "name": "일루미네이팅 키킹 플레이트",
+        "cardTitle": "일루미네이팅 키킹 플레이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "165,000원",
+        "image": "르노/아르카나/일루미네이팅 키킹 플레이트.webp",
+        "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "일루미네이팅 키킹 플레이트"
+        ],
+        "detailImages": [
+          "르노/아르카나/일루미네이팅 키킹 플레이트.webp"
+        ],
+        "detailTitles": [
+          "일루미네이팅 키킹 플레이트"
+        ],
+        "detailSections": [
+          {
+            "title": "일루미네이팅 키킹 플레이트",
+            "image": "르노/아르카나/일루미네이팅 키킹 플레이트.webp",
+            "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "KL8"
+      },
+      {
+        "id": "arkana-gas-accessory-pt4",
+        "name": "파워 테일게이트",
+        "cardTitle": "파워 테일게이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "800,000원",
+        "image": "르노/아르카나/파워 테일게이트.webp",
+        "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "파워 테일게이트"
+        ],
+        "detailImages": [
+          "르노/아르카나/파워 테일게이트.webp"
+        ],
+        "detailTitles": [
+          "파워 테일게이트"
+        ],
+        "detailSections": [
+          {
+            "title": "파워 테일게이트",
+            "image": "르노/아르카나/파워 테일게이트.webp",
+            "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "PT4"
+      },
+      {
+        "id": "arkana-gas-accessory-st5",
+        "name": "사이드 스텝",
+        "cardTitle": "사이드 스텝",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "410,000원",
+        "image": "르노/아르카나/사이드 스텝.webp",
+        "description": "사이드 스텝",
+        "showDetails": true,
+        "compositionTitles": [
+          "사이드 스텝"
+        ],
+        "detailImages": [
+          "르노/아르카나/사이드 스텝.webp"
+        ],
+        "detailTitles": [
+          "사이드 스텝"
+        ],
+        "detailSections": [
+          {
+            "title": "사이드 스텝",
+            "image": "르노/아르카나/사이드 스텝.webp",
+            "description": "사이드 스텝"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "ST5",
+        "blockedBy": [
+          "arkana-gas-accessory-wl7"
+        ]
+      },
+      {
+        "id": "arkana-gas-accessory-wl3",
+        "name": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+        "cardTitle": "언더바디 웰컴 라이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "190,000원",
+        "image": "르노/아르카나/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+        "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)"
+        ],
+        "detailImages": [
+          "르노/아르카나/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp"
+        ],
+        "detailTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "언더바디 웰컴 라이트",
+            "image": "르노/아르카나/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+            "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "WL3",
+        "requires": [
+          "arkana-gas-accessory-st5"
+        ],
+        "selectionNote": "사이드 스텝 장착 차량용",
+        "blockedBy": [
+          "arkana-gas-accessory-wl7"
+        ]
+      },
+      {
+        "id": "arkana-gas-accessory-wl7",
+        "name": "언더바디 웰컴 라이트",
+        "cardTitle": "언더바디 웰컴 라이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "190,000원",
+        "image": "르노/아르카나/언더바디 웰컴 라이트.webp",
+        "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailImages": [
+          "르노/아르카나/언더바디 웰컴 라이트.webp"
+        ],
+        "detailTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "언더바디 웰컴 라이트",
+            "image": "르노/아르카나/언더바디 웰컴 라이트.webp",
+            "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNBALFZJ11EDE",
+        "sourceAccessoryCode": "WL7",
+        "selectionNote": "사이드 스텝 미장착 차량용",
+        "blockedBy": [
+          "arkana-gas-accessory-st5",
+          "arkana-gas-accessory-wl3"
+        ]
+      },
+      {
+        "id": "arkana-gas-basic-0",
+        "name": "1.6 GTe(가솔린)엔진",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "1.6 GTe(가솔린)엔진",
+        "compositionTitles": [
+          "1.6 GTe(가솔린)엔진"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "1.6 GTe(가솔린)엔진"
+        ],
+        "detailSections": [
+          {
+            "title": "1.6 GTe(가솔린)엔진",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-1",
+        "name": "엑스트로닉(Xtronic) 무단 변속기",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "엑스트로닉(Xtronic) 무단 변속기",
+        "compositionTitles": [
+          "엑스트로닉(Xtronic) 무단 변속기"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "엑스트로닉(Xtronic) 무단 변속기"
+        ],
+        "detailSections": [
+          {
+            "title": "엑스트로닉(Xtronic) 무단 변속기",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-2",
+        "name": "오토 스탑/스타트 시스템",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토 스탑/스타트 시스템",
+        "compositionTitles": [
+          "오토 스탑/스타트 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토 스탑/스타트 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "오토 스탑/스타트 시스템",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-3",
+        "name": "에코 모드",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "에코 모드",
+        "compositionTitles": [
+          "에코 모드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "에코 모드"
+        ],
+        "detailSections": [
+          {
+            "title": "에코 모드",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-4",
+        "name": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+        "compositionTitles": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)"
+        ],
+        "detailSections": [
+          {
+            "title": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-5",
+        "name": "차간거리 경보 시스템",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차간거리 경보 시스템",
+        "compositionTitles": [
+          "차간거리 경보 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차간거리 경보 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "차간거리 경보 시스템",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-6",
+        "name": "차선 이탈 경보 시스템(LDW)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차선 이탈 경보 시스템(LDW)",
+        "compositionTitles": [
+          "차선 이탈 경보 시스템(LDW)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차선 이탈 경보 시스템(LDW)"
+        ],
+        "detailSections": [
+          {
+            "title": "차선 이탈 경보 시스템(LDW)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-7",
+        "name": "차선 이탈 방지 보조 시스템(LKA)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차선 이탈 방지 보조 시스템(LKA)",
+        "compositionTitles": [
+          "차선 이탈 방지 보조 시스템(LKA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차선 이탈 방지 보조 시스템(LKA)"
+        ],
+        "detailSections": [
+          {
+            "title": "차선 이탈 방지 보조 시스템(LKA)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-8",
+        "name": "오토매틱 하이빔(AHL)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토매틱 하이빔(AHL)",
+        "compositionTitles": [
+          "오토매틱 하이빔(AHL)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토매틱 하이빔(AHL)"
+        ],
+        "detailSections": [
+          {
+            "title": "오토매틱 하이빔(AHL)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-9",
+        "name": "운전피로도 경보 시스템(DDAW)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전피로도 경보 시스템(DDAW)",
+        "compositionTitles": [
+          "운전피로도 경보 시스템(DDAW)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전피로도 경보 시스템(DDAW)"
+        ],
+        "detailSections": [
+          {
+            "title": "운전피로도 경보 시스템(DDAW)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-10",
+        "name": "QRescue",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "QRescue",
+        "compositionTitles": [
+          "QRescue"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "QRescue"
+        ],
+        "detailSections": [
+          {
+            "title": "QRescue",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-11",
+        "name": "앞좌석 에어백(운전석/동승석)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 에어백(운전석/동승석)",
+        "compositionTitles": [
+          "앞좌석 에어백(운전석/동승석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 에어백(운전석/동승석)"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 에어백(운전석/동승석)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-12",
+        "name": "사이드(앞)/커튼 에어백",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "사이드(앞)/커튼 에어백",
+        "compositionTitles": [
+          "사이드(앞)/커튼 에어백"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "사이드(앞)/커튼 에어백"
+        ],
+        "detailSections": [
+          {
+            "title": "사이드(앞)/커튼 에어백",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-13",
+        "name": "차체자세 제어장치(ESC)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차체자세 제어장치(ESC)",
+        "compositionTitles": [
+          "차체자세 제어장치(ESC)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차체자세 제어장치(ESC)"
+        ],
+        "detailSections": [
+          {
+            "title": "차체자세 제어장치(ESC)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-14",
+        "name": "경사로 밀림 방지 장치(HSA)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "경사로 밀림 방지 장치(HSA)",
+        "compositionTitles": [
+          "경사로 밀림 방지 장치(HSA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "경사로 밀림 방지 장치(HSA)"
+        ],
+        "detailSections": [
+          {
+            "title": "경사로 밀림 방지 장치(HSA)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-15",
+        "name": "타이어 공기압 자동감지 시스템",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "타이어 공기압 자동감지 시스템",
+        "compositionTitles": [
+          "타이어 공기압 자동감지 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "타이어 공기압 자동감지 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "타이어 공기압 자동감지 시스템",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-16",
+        "name": "EBD-ABS (BAS 내장)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "EBD-ABS (BAS 내장)",
+        "compositionTitles": [
+          "EBD-ABS (BAS 내장)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "EBD-ABS (BAS 내장)"
+        ],
+        "detailSections": [
+          {
+            "title": "EBD-ABS (BAS 내장)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-17",
+        "name": "충돌감지 도어록 해제장치",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "충돌감지 도어록 해제장치",
+        "compositionTitles": [
+          "충돌감지 도어록 해제장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "충돌감지 도어록 해제장치"
+        ],
+        "detailSections": [
+          {
+            "title": "충돌감지 도어록 해제장치",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-18",
+        "name": "중앙집중식 도어록/차속 감응 오토 도어록",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "중앙집중식 도어록/차속 감응 오토 도어록",
+        "compositionTitles": [
+          "중앙집중식 도어록/차속 감응 오토 도어록"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "중앙집중식 도어록/차속 감응 오토 도어록"
+        ],
+        "detailSections": [
+          {
+            "title": "중앙집중식 도어록/차속 감응 오토 도어록",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-19",
+        "name": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+        "compositionTitles": [
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-20",
+        "name": "뒷좌석 3점식 시트벨트",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 3점식 시트벨트",
+        "compositionTitles": [
+          "뒷좌석 3점식 시트벨트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 3점식 시트벨트"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 3점식 시트벨트",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-21",
+        "name": "ISOFIX 유아용 시트 고정 장치",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "ISOFIX 유아용 시트 고정 장치",
+        "compositionTitles": [
+          "ISOFIX 유아용 시트 고정 장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "ISOFIX 유아용 시트 고정 장치"
+        ],
+        "detailSections": [
+          {
+            "title": "ISOFIX 유아용 시트 고정 장치",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-22",
+        "name": "전/후륜 디스크 브레이크",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전/후륜 디스크 브레이크",
+        "compositionTitles": [
+          "전/후륜 디스크 브레이크"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전/후륜 디스크 브레이크"
+        ],
+        "detailSections": [
+          {
+            "title": "전/후륜 디스크 브레이크",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-23",
+        "name": "원터치 트리플 턴 시그널",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "원터치 트리플 턴 시그널",
+        "compositionTitles": [
+          "원터치 트리플 턴 시그널"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "원터치 트리플 턴 시그널"
+        ],
+        "detailSections": [
+          {
+            "title": "원터치 트리플 턴 시그널",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-24",
+        "name": "차량용 소화기",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차량용 소화기",
+        "compositionTitles": [
+          "차량용 소화기"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차량용 소화기"
+        ],
+        "detailSections": [
+          {
+            "title": "차량용 소화기",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-25",
+        "name": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+        "compositionTitles": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)"
+        ],
+        "detailSections": [
+          {
+            "title": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-26",
+        "name": "새틴 크롬 로장주 엠블럼",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나/새틴 크롬 로장주 엠블럼.webp",
+        "showDetails": true,
+        "description": "새틴 크롬 로장주 엠블럼",
+        "compositionTitles": [
+          "새틴 크롬 로장주 엠블럼"
+        ],
+        "detailImages": [
+          "르노/아르카나/새틴 크롬 로장주 엠블럼.webp"
+        ],
+        "detailTitles": [
+          "새틴 크롬 로장주 엠블럼"
+        ],
+        "detailSections": [
+          {
+            "title": "새틴 크롬 로장주 엠블럼",
+            "image": "르노/아르카나/새틴 크롬 로장주 엠블럼.webp",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-27",
+        "name": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+        "compositionTitles": [
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬"
+        ],
+        "detailSections": [
+          {
+            "title": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-28",
+        "name": "LED PURE VISION 헤드램프",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED PURE VISION 헤드램프",
+        "compositionTitles": [
+          "LED PURE VISION 헤드램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED PURE VISION 헤드램프"
+        ],
+        "detailSections": [
+          {
+            "title": "LED PURE VISION 헤드램프",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-29",
+        "name": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+        "showDetails": true,
+        "description": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+        "compositionTitles": [
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)"
+        ],
+        "detailImages": [
+          "르노/아르카나/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp"
+        ],
+        "detailTitles": [
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)"
+        ],
+        "detailSections": [
+          {
+            "title": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+            "image": "르노/아르카나/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-30",
+        "name": "LED 주간 주행등",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 주간 주행등",
+        "compositionTitles": [
+          "LED 주간 주행등"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 주간 주행등"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 주간 주행등",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-31",
+        "name": "새틴 크롬 데코(사이드 엠블리셔)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "새틴 크롬 데코(사이드 엠블리셔)",
+        "compositionTitles": [
+          "새틴 크롬 데코(사이드 엠블리셔)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "새틴 크롬 데코(사이드 엠블리셔)"
+        ],
+        "detailSections": [
+          {
+            "title": "새틴 크롬 데코(사이드 엠블리셔)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-32",
+        "name": "LED 방향 지시등(전방)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 방향 지시등(전방)",
+        "compositionTitles": [
+          "LED 방향 지시등(전방)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 방향 지시등(전방)"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 방향 지시등(전방)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-33",
+        "name": "LED 방향 지시등 일체형 아웃사이드 미러",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 방향 지시등 일체형 아웃사이드 미러",
+        "compositionTitles": [
+          "LED 방향 지시등 일체형 아웃사이드 미러"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 방향 지시등 일체형 아웃사이드 미러"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 방향 지시등 일체형 아웃사이드 미러",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-34",
+        "name": "블랙 아웃사이드 미러 커버",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 아웃사이드 미러 커버",
+        "compositionTitles": [
+          "블랙 아웃사이드 미러 커버"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 아웃사이드 미러 커버"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 아웃사이드 미러 커버",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-35",
+        "name": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+        "compositionTitles": [
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어"
+        ],
+        "detailSections": [
+          {
+            "title": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-36",
+        "name": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+        "compositionTitles": [
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들"
+        ],
+        "detailSections": [
+          {
+            "title": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-37",
+        "name": "프런트/리어 그레이 스키드",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "프런트/리어 그레이 스키드",
+        "compositionTitles": [
+          "프런트/리어 그레이 스키드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "프런트/리어 그레이 스키드"
+        ],
+        "detailSections": [
+          {
+            "title": "프런트/리어 그레이 스키드",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-38",
+        "name": "샤크 안테나",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "샤크 안테나",
+        "compositionTitles": [
+          "샤크 안테나"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "샤크 안테나"
+        ],
+        "detailSections": [
+          {
+            "title": "샤크 안테나",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-39",
+        "name": "블랙 인조 가죽 시트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 인조 가죽 시트",
+        "compositionTitles": [
+          "블랙 인조 가죽 시트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 인조 가죽 시트"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 인조 가죽 시트",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-40",
+        "name": "10.25” TFT 클러스터",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "10.25” TFT 클러스터",
+        "compositionTitles": [
+          "10.25” TFT 클러스터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "10.25” TFT 클러스터"
+        ],
+        "detailSections": [
+          {
+            "title": "10.25” TFT 클러스터",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-41",
+        "name": "블랙 헤드라이너",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 헤드라이너",
+        "compositionTitles": [
+          "블랙 헤드라이너"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 헤드라이너"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 헤드라이너",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-42",
+        "name": "LED 룸 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 룸 램프",
+        "compositionTitles": [
+          "LED 룸 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 룸 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 룸 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-43",
+        "name": "선바이저 조명(운전석 /동승석)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "선바이저 조명(운전석 /동승석)",
+        "compositionTitles": [
+          "선바이저 조명(운전석 /동승석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "선바이저 조명(운전석 /동승석)"
+        ],
+        "detailSections": [
+          {
+            "title": "선바이저 조명(운전석 /동승석)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-44",
+        "name": "글로브 박스 조명",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "글로브 박스 조명",
+        "compositionTitles": [
+          "글로브 박스 조명"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "글로브 박스 조명"
+        ],
+        "detailSections": [
+          {
+            "title": "글로브 박스 조명",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-45",
+        "name": "2열 센터 암레스트(컵홀더 포함)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "2열 센터 암레스트(컵홀더 포함)",
+        "compositionTitles": [
+          "2열 센터 암레스트(컵홀더 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "2열 센터 암레스트(컵홀더 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "2열 센터 암레스트(컵홀더 포함)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-46",
+        "name": "소프트 필 스티어링 휠",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "소프트 필 스티어링 휠",
+        "compositionTitles": [
+          "소프트 필 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "소프트 필 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "소프트 필 스티어링 휠",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-47",
+        "name": "블랙 인테리어",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 인테리어",
+        "compositionTitles": [
+          "블랙 인테리어"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 인테리어"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 인테리어",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-48",
+        "name": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+        "compositionTitles": [
+          "운전석/동승석 매뉴얼 시트 높이 조절장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전석/동승석 매뉴얼 시트 높이 조절장치"
+        ],
+        "detailSections": [
+          {
+            "title": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-49",
+        "name": "앞좌석 슬라이딩 암레스트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 슬라이딩 암레스트",
+        "compositionTitles": [
+          "앞좌석 슬라이딩 암레스트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 슬라이딩 암레스트"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 슬라이딩 암레스트",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-50",
+        "name": "도어포켓(앞/뒤)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "도어포켓(앞/뒤)",
+        "compositionTitles": [
+          "도어포켓(앞/뒤)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "도어포켓(앞/뒤)"
+        ],
+        "detailSections": [
+          {
+            "title": "도어포켓(앞/뒤)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-51",
+        "name": "앞좌석 컵홀더",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 컵홀더",
+        "compositionTitles": [
+          "앞좌석 컵홀더"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 컵홀더"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 컵홀더",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-52",
+        "name": "운전석/동승석 선바이저(거울 포함)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전석/동승석 선바이저(거울 포함)",
+        "compositionTitles": [
+          "운전석/동승석 선바이저(거울 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전석/동승석 선바이저(거울 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "운전석/동승석 선바이저(거울 포함)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-53",
+        "name": "맵 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "맵 램프",
+        "compositionTitles": [
+          "맵 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "맵 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "맵 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-54",
+        "name": "룸 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "룸 램프",
+        "compositionTitles": [
+          "룸 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "룸 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "룸 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-55",
+        "name": "2열 6:4 폴딩시트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나/2열 64 폴딩시트.webp",
+        "showDetails": true,
+        "description": "2열 6:4 폴딩시트",
+        "compositionTitles": [
+          "2열 6:4 폴딩시트"
+        ],
+        "detailImages": [
+          "르노/아르카나/2열 64 폴딩시트.webp"
+        ],
+        "detailTitles": [
+          "2열 6:4 폴딩시트"
+        ],
+        "detailSections": [
+          {
+            "title": "2열 6:4 폴딩시트",
+            "image": "르노/아르카나/2열 64 폴딩시트.webp",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-56",
+        "name": "뒷좌석 분리형 헤드레스트(센터 제외)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 분리형 헤드레스트(센터 제외)",
+        "compositionTitles": [
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 분리형 헤드레스트(센터 제외)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-57",
+        "name": "앞좌석 통풍/열선시트",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 통풍/열선시트",
+        "compositionTitles": [
+          "앞좌석 통풍/열선시트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 통풍/열선시트"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 통풍/열선시트",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-58",
+        "name": "오토홀드",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토홀드",
+        "compositionTitles": [
+          "오토홀드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토홀드"
+        ],
+        "detailSections": [
+          {
+            "title": "오토홀드",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-59",
+        "name": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+        "compositionTitles": [
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)"
+        ],
+        "detailSections": [
+          {
+            "title": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-60",
+        "name": "컬러 가변형 앰비언트 라이트",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "컬러 가변형 앰비언트 라이트",
+        "compositionTitles": [
+          "컬러 가변형 앰비언트 라이트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "컬러 가변형 앰비언트 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "컬러 가변형 앰비언트 라이트",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-61",
+        "name": "주차 조향 보조 시스템(EPA)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "주차 조향 보조 시스템(EPA)",
+        "compositionTitles": [
+          "주차 조향 보조 시스템(EPA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "주차 조향 보조 시스템(EPA)"
+        ],
+        "detailSections": [
+          {
+            "title": "주차 조향 보조 시스템(EPA)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-62",
+        "name": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+        "compositionTitles": [
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)"
+        ],
+        "detailSections": [
+          {
+            "title": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-63",
+        "name": "스마트폰 무선 충전",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "스마트폰 무선 충전",
+        "compositionTitles": [
+          "스마트폰 무선 충전"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "스마트폰 무선 충전"
+        ],
+        "detailSections": [
+          {
+            "title": "스마트폰 무선 충전",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-64",
+        "name": "열선 스티어링 휠",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "열선 스티어링 휠",
+        "compositionTitles": [
+          "열선 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "열선 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "열선 스티어링 휠",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-65",
+        "name": "오토라이팅 헤드램프",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토라이팅 헤드램프",
+        "compositionTitles": [
+          "오토라이팅 헤드램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토라이팅 헤드램프"
+        ],
+        "detailSections": [
+          {
+            "title": "오토라이팅 헤드램프",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-66",
+        "name": "레인센싱 와이퍼",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "레인센싱 와이퍼",
+        "compositionTitles": [
+          "레인센싱 와이퍼"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "레인센싱 와이퍼"
+        ],
+        "detailSections": [
+          {
+            "title": "레인센싱 와이퍼",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-67",
+        "name": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+        "compositionTitles": [
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)"
+        ],
+        "detailSections": [
+          {
+            "title": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-68",
+        "name": "전자식 파킹브레이크",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전자식 파킹브레이크",
+        "compositionTitles": [
+          "전자식 파킹브레이크"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전자식 파킹브레이크"
+        ],
+        "detailSections": [
+          {
+            "title": "전자식 파킹브레이크",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-69",
+        "name": "원터치 세이프티 파워 윈도우(전좌석)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "원터치 세이프티 파워 윈도우(전좌석)",
+        "compositionTitles": [
+          "원터치 세이프티 파워 윈도우(전좌석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "원터치 세이프티 파워 윈도우(전좌석)"
+        ],
+        "detailSections": [
+          {
+            "title": "원터치 세이프티 파워 윈도우(전좌석)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-70",
+        "name": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+        "compositionTitles": [
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-71",
+        "name": "후방 경보 시스템",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "후방 경보 시스템",
+        "compositionTitles": [
+          "후방 경보 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "후방 경보 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "후방 경보 시스템",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-72",
+        "name": "후방 카메라",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "후방 카메라",
+        "compositionTitles": [
+          "후방 카메라"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "후방 카메라"
+        ],
+        "detailSections": [
+          {
+            "title": "후방 카메라",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-73",
+        "name": "패들 시프트",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "패들 시프트",
+        "compositionTitles": [
+          "패들 시프트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "패들 시프트"
+        ],
+        "detailSections": [
+          {
+            "title": "패들 시프트",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-74",
+        "name": "12V 파워 아웃렛(앞좌석)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "12V 파워 아웃렛(앞좌석)",
+        "compositionTitles": [
+          "12V 파워 아웃렛(앞좌석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "12V 파워 아웃렛(앞좌석)"
+        ],
+        "detailSections": [
+          {
+            "title": "12V 파워 아웃렛(앞좌석)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-75",
+        "name": "트립 컴퓨터",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "트립 컴퓨터",
+        "compositionTitles": [
+          "트립 컴퓨터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "트립 컴퓨터"
+        ],
+        "detailSections": [
+          {
+            "title": "트립 컴퓨터",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-76",
+        "name": "수동식 틸트/텔레스코픽 스티어링 휠",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "수동식 틸트/텔레스코픽 스티어링 휠",
+        "compositionTitles": [
+          "수동식 틸트/텔레스코픽 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "수동식 틸트/텔레스코픽 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "수동식 틸트/텔레스코픽 스티어링 휠",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-77",
+        "name": "전자식 차속 감응파워 스티어링(SSEPS)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전자식 차속 감응파워 스티어링(SSEPS)",
+        "compositionTitles": [
+          "전자식 차속 감응파워 스티어링(SSEPS)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전자식 차속 감응파워 스티어링(SSEPS)"
+        ],
+        "detailSections": [
+          {
+            "title": "전자식 차속 감응파워 스티어링(SSEPS)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-78",
+        "name": "크루즈 컨트롤/스피드리미터",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "크루즈 컨트롤/스피드리미터",
+        "compositionTitles": [
+          "크루즈 컨트롤/스피드리미터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "크루즈 컨트롤/스피드리미터"
+        ],
+        "detailSections": [
+          {
+            "title": "크루즈 컨트롤/스피드리미터",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-79",
+        "name": "하이패스/전자식 룸 미러",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "하이패스/전자식 룸 미러",
+        "compositionTitles": [
+          "하이패스/전자식 룸 미러"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "하이패스/전자식 룸 미러"
+        ],
+        "detailSections": [
+          {
+            "title": "하이패스/전자식 룸 미러",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-80",
+        "name": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나/openR link 9.3” 내비게이션.webp",
+        "showDetails": true,
+        "description": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+        "compositionTitles": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)"
+        ],
+        "detailImages": [
+          "르노/아르카나/openR link 9.3” 내비게이션.webp"
+        ],
+        "detailTitles": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)"
+        ],
+        "detailSections": [
+          {
+            "title": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+            "image": "르노/아르카나/openR link 9.3” 내비게이션.webp",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-81",
+        "name": "6 스피커",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "6 스피커",
+        "compositionTitles": [
+          "6 스피커"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "6 스피커"
+        ],
+        "detailSections": [
+          {
+            "title": "6 스피커",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-82",
+        "name": "AUX & USB 단자",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "AUX & USB 단자",
+        "compositionTitles": [
+          "AUX & USB 단자"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "AUX & USB 단자"
+        ],
+        "detailSections": [
+          {
+            "title": "AUX & USB 단자",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-83",
+        "name": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+        "compositionTitles": [
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)"
+        ],
+        "detailSections": [
+          {
+            "title": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-84",
+        "name": "스티어링 휠 오디오 리모컨",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "스티어링 휠 오디오 리모컨",
+        "compositionTitles": [
+          "스티어링 휠 오디오 리모컨"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "스티어링 휠 오디오 리모컨"
+        ],
+        "detailSections": [
+          {
+            "title": "스티어링 휠 오디오 리모컨",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-85",
+        "name": "뒷좌석 USB 단자",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 USB 단자",
+        "compositionTitles": [
+          "뒷좌석 USB 단자"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 USB 단자"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 USB 단자",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-86",
+        "name": "오토 에어컨",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토 에어컨",
+        "compositionTitles": [
+          "오토 에어컨"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토 에어컨"
+        ],
+        "detailSections": [
+          {
+            "title": "오토 에어컨",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-87",
+        "name": "리어 에어 벤트",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "리어 에어 벤트",
+        "compositionTitles": [
+          "리어 에어 벤트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "리어 에어 벤트"
+        ],
+        "detailSections": [
+          {
+            "title": "리어 에어 벤트",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      },
+      {
+        "id": "arkana-gas-basic-88",
+        "name": "초미세먼지 고효율 필터",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "초미세먼지 고효율 필터",
+        "compositionTitles": [
+          "초미세먼지 고효율 필터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "초미세먼지 고효율 필터"
+        ],
+        "detailSections": [
+          {
+            "title": "초미세먼지 고효율 필터",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNBALFZJ11EDE"
+      }
+    ],
+    "르노|아르카나 하이브리드|1.6 HEV|Iconic": [
+      {
+        "id": "arkana-hybrid-option-xxxxp",
+        "name": "카멜 브라운 인조 가죽시트 패키지",
+        "cardTitle": "카멜 브라운 인조 가죽시트 패키지",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "750,000원",
+        "image": "르노/아르카나 하이브리드/카멜 브라운 인조 가죽시트 패키지.webp",
+        "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트",
+        "showDetails": true,
+        "compositionTitles": [
+          "카멜 브라운 인조 가죽 시트",
+          "운전석/동승석 6WAY(높이 조절 포함) 파워시트",
+          "운전석 럼버 서포트",
+          "뒷좌석 열선시트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/카멜 브라운 인조 가죽시트 패키지.webp"
+        ],
+        "detailTitles": [
+          "카멜 브라운 인조 가죽시트 패키지"
+        ],
+        "detailSections": [
+          {
+            "title": "카멜 브라운 인조 가죽시트 패키지",
+            "image": "르노/아르카나 하이브리드/카멜 브라운 인조 가죽시트 패키지.webp",
+            "description": "카멜 브라운 인조 가죽 시트 + 운전석/동승석 6WAY(높이 조절 포함) 파워시트 + 운전석 럼버 서포트 + 뒷좌석 열선시트"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceOptionCode": "----P"
+      },
+      {
+        "id": "arkana-hybrid-option-xxmxx",
+        "name": "360° 어라운드 뷰 모니터",
+        "cardTitle": "360° 어라운드 뷰 모니터",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "500,000원",
+        "image": "르노/아르카나 하이브리드/360° 어라운드 뷰 모니터.webp",
+        "description": "360° 어라운드 뷰 모니터",
+        "showDetails": true,
+        "compositionTitles": [
+          "360° 어라운드 뷰 모니터"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/360° 어라운드 뷰 모니터.webp"
+        ],
+        "detailTitles": [
+          "360° 어라운드 뷰 모니터"
+        ],
+        "detailSections": [
+          {
+            "title": "360° 어라운드 뷰 모니터",
+            "image": "르노/아르카나 하이브리드/360° 어라운드 뷰 모니터.webp",
+            "description": "360° 어라운드 뷰 모니터"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceOptionCode": "--M--"
+      },
+      {
+        "id": "arkana-hybrid-option-xbxxx",
+        "name": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+        "cardTitle": "BOSE® 서라운드 사운드 시스템",
+        "category": "선택 품목",
+        "status": "선택 옵션",
+        "price": "700,000원",
+        "image": "르노/아르카나 하이브리드/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+        "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)",
+        "showDetails": true,
+        "compositionTitles": [
+          "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp"
+        ],
+        "detailTitles": [
+          "BOSE® 서라운드 사운드 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "BOSE® 서라운드 사운드 시스템",
+            "image": "르노/아르카나 하이브리드/BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커).webp",
+            "description": "BOSE® 서라운드 사운드 시스템(서브 우퍼 포함 9스피커)"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceOptionCode": "-B---"
+      },
+      {
+        "id": "arkana-hybrid-accessory-rk9",
+        "name": "리어스포일러(블랙)",
+        "cardTitle": "리어스포일러(블랙)",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "150,000원",
+        "image": "르노/아르카나 하이브리드/리어스포일러(블랙).webp",
+        "description": "※ 적용 차종 :  Renault Arkana iconic",
+        "showDetails": true,
+        "compositionTitles": [
+          "리어스포일러(블랙)"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/리어스포일러(블랙).webp"
+        ],
+        "detailTitles": [
+          "리어스포일러(블랙)"
+        ],
+        "detailSections": [
+          {
+            "title": "리어스포일러(블랙)",
+            "image": "르노/아르카나 하이브리드/리어스포일러(블랙).webp",
+            "description": "※ 적용 차종 :  Renault Arkana iconic"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "RK9"
+      },
+      {
+        "id": "arkana-hybrid-accessory-ap7",
+        "name": "프리미엄 스포츠 페달",
+        "cardTitle": "프리미엄 스포츠 페달",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "62,000원",
+        "image": "르노/아르카나 하이브리드/프리미엄 스포츠 페달.webp",
+        "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "프리미엄 스포츠 페달"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/프리미엄 스포츠 페달.webp"
+        ],
+        "detailTitles": [
+          "프리미엄 스포츠 페달"
+        ],
+        "detailSections": [
+          {
+            "title": "프리미엄 스포츠 페달",
+            "image": "르노/아르카나 하이브리드/프리미엄 스포츠 페달.webp",
+            "description": "※풋레스트, 엑셀, 브레이크 페달 세트입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "AP7"
+      },
+      {
+        "id": "arkana-hybrid-accessory-cb5",
+        "name": "뒷좌석 전용 초고속 급속 충전기",
+        "cardTitle": "뒷좌석 전용 초고속 급속 충전기",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "67,000원",
+        "image": "르노/아르카나 하이브리드/뒷좌석 전용 초고속 급속 충전기.webp",
+        "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "뒷좌석 전용 초고속 급속 충전기"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/뒷좌석 전용 초고속 급속 충전기.webp"
+        ],
+        "detailTitles": [
+          "뒷좌석 전용 초고속 급속 충전기"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 전용 초고속 급속 충전기",
+            "image": "르노/아르카나 하이브리드/뒷좌석 전용 초고속 급속 충전기.webp",
+            "description": "USB PD3.02 PortC Type , QC4+ / AFC등 PPS를 지원하는 스마트 기기들을 고속 충전\n※모든 트림 적용 가능합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "CB5"
+      },
+      {
+        "id": "arkana-hybrid-accessory-cm2",
+        "name": "프리미엄 코일 매트",
+        "cardTitle": "프리미엄 코일 매트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "39,000원",
+        "image": "르노/아르카나 하이브리드/프리미엄 코일 매트.webp",
+        "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "프리미엄 코일 매트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/프리미엄 코일 매트.webp"
+        ],
+        "detailTitles": [
+          "프리미엄 코일 매트"
+        ],
+        "detailSections": [
+          {
+            "title": "프리미엄 코일 매트",
+            "image": "르노/아르카나 하이브리드/프리미엄 코일 매트.webp",
+            "description": "2가지 컬러 : 그레이, 브라운\n※ 예시 이미지로 차종에 따라 모양이 다릅니다.\n※ 운전석/조수석/리어 매트 세트입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "CM2"
+      },
+      {
+        "id": "arkana-hybrid-accessory-dl4",
+        "name": "로장주 도어 스팟 램프",
+        "cardTitle": "로장주 도어 스팟 램프",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "140,000원",
+        "image": "르노/아르카나 하이브리드/로장주 도어 스팟 램프.webp",
+        "description": "로장주 도어 스팟 램프",
+        "showDetails": true,
+        "compositionTitles": [
+          "로장주 도어 스팟 램프"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/로장주 도어 스팟 램프.webp"
+        ],
+        "detailTitles": [
+          "로장주 도어 스팟 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "로장주 도어 스팟 램프",
+            "image": "르노/아르카나 하이브리드/로장주 도어 스팟 램프.webp",
+            "description": "로장주 도어 스팟 램프"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "DL4"
+      },
+      {
+        "id": "arkana-hybrid-accessory-kl8",
+        "name": "일루미네이팅 키킹 플레이트",
+        "cardTitle": "일루미네이팅 키킹 플레이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "165,000원",
+        "image": "르노/아르카나 하이브리드/일루미네이팅 키킹 플레이트.webp",
+        "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "일루미네이팅 키킹 플레이트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/일루미네이팅 키킹 플레이트.webp"
+        ],
+        "detailTitles": [
+          "일루미네이팅 키킹 플레이트"
+        ],
+        "detailSections": [
+          {
+            "title": "일루미네이팅 키킹 플레이트",
+            "image": "르노/아르카나 하이브리드/일루미네이팅 키킹 플레이트.webp",
+            "description": "※ 프론트(운전석, 조수석) 두 군데에 적용되는 조명 기능입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "KL8"
+      },
+      {
+        "id": "arkana-hybrid-accessory-pt4",
+        "name": "파워 테일게이트",
+        "cardTitle": "파워 테일게이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "800,000원",
+        "image": "르노/아르카나 하이브리드/파워 테일게이트.webp",
+        "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "파워 테일게이트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/파워 테일게이트.webp"
+        ],
+        "detailTitles": [
+          "파워 테일게이트"
+        ],
+        "detailSections": [
+          {
+            "title": "파워 테일게이트",
+            "image": "르노/아르카나 하이브리드/파워 테일게이트.webp",
+            "description": "운전자석의 버튼 또는 트렁크의 버튼으로 자동으로 열고 닫을 수 있어 편의성을 높인 아르카나 전용 액세서리 입니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "PT4"
+      },
+      {
+        "id": "arkana-hybrid-accessory-st5",
+        "name": "사이드 스텝",
+        "cardTitle": "사이드 스텝",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "410,000원",
+        "image": "르노/아르카나 하이브리드/사이드 스텝.webp",
+        "description": "사이드 스텝",
+        "showDetails": true,
+        "compositionTitles": [
+          "사이드 스텝"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/사이드 스텝.webp"
+        ],
+        "detailTitles": [
+          "사이드 스텝"
+        ],
+        "detailSections": [
+          {
+            "title": "사이드 스텝",
+            "image": "르노/아르카나 하이브리드/사이드 스텝.webp",
+            "description": "사이드 스텝"
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "ST5",
+        "blockedBy": [
+          "arkana-hybrid-accessory-wl7"
+        ]
+      },
+      {
+        "id": "arkana-hybrid-accessory-wl3",
+        "name": "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)",
+        "cardTitle": "언더바디 웰컴 라이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "190,000원",
+        "image": "르노/아르카나 하이브리드/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+        "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "언더바디 웰컴 라이트 (사이드 스텝 장착 차량용)"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp"
+        ],
+        "detailTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "언더바디 웰컴 라이트",
+            "image": "르노/아르카나 하이브리드/언더바디 웰컴 라이트 (사이드 스텝 장착 차량용).webp",
+            "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "WL3",
+        "requires": [
+          "arkana-hybrid-accessory-st5"
+        ],
+        "selectionNote": "사이드 스텝 장착 차량용",
+        "blockedBy": [
+          "arkana-hybrid-accessory-wl7"
+        ]
+      },
+      {
+        "id": "arkana-hybrid-accessory-wl7",
+        "name": "언더바디 웰컴 라이트",
+        "cardTitle": "언더바디 웰컴 라이트",
+        "category": "액세서리",
+        "status": "선택 옵션",
+        "price": "190,000원",
+        "image": "르노/아르카나 하이브리드/언더바디 웰컴 라이트.webp",
+        "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다.",
+        "showDetails": true,
+        "compositionTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/언더바디 웰컴 라이트.webp"
+        ],
+        "detailTitles": [
+          "언더바디 웰컴 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "언더바디 웰컴 라이트",
+            "image": "르노/아르카나 하이브리드/언더바디 웰컴 라이트.webp",
+            "description": "※ 사이드 스텝과 중복 선택이 가능하며 이 경우 반드시 사이드 스텝용을 선택해야 합니다."
+          }
+        ],
+        "source": "https://www.renault.co.kr/ko/buy/mycar_step.jsp?mcode=A214",
+        "sourceModelCode": "BNGALFHJ11HDE",
+        "sourceAccessoryCode": "WL7",
+        "selectionNote": "사이드 스텝 미장착 차량용",
+        "blockedBy": [
+          "arkana-hybrid-accessory-st5",
+          "arkana-hybrid-accessory-wl3"
+        ]
+      },
+      {
+        "id": "arkana-hybrid-basic-0",
+        "name": "하이브리드 E-Tech 1.6 GTe 엔진",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "하이브리드 E-Tech 1.6 GTe 엔진",
+        "compositionTitles": [
+          "하이브리드 E-Tech 1.6 GTe 엔진"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "하이브리드 E-Tech 1.6 GTe 엔진"
+        ],
+        "detailSections": [
+          {
+            "title": "하이브리드 E-Tech 1.6 GTe 엔진",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-1",
+        "name": "클러치리스 멀티모드 오토(6단)",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "클러치리스 멀티모드 오토(6단)",
+        "compositionTitles": [
+          "클러치리스 멀티모드 오토(6단)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "클러치리스 멀티모드 오토(6단)"
+        ],
+        "detailSections": [
+          {
+            "title": "클러치리스 멀티모드 오토(6단)",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-2",
+        "name": "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)",
+        "compositionTitles": [
+          "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)"
+        ],
+        "detailSections": [
+          {
+            "title": "듀얼 모터 시스템 (36kW 구동모터 & 15kW 보조모터)",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-3",
+        "name": "EV 모드",
+        "category": "파워트레인",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "EV 모드",
+        "compositionTitles": [
+          "EV 모드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "EV 모드"
+        ],
+        "detailSections": [
+          {
+            "title": "EV 모드",
+            "description": "파워트레인 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-4",
+        "name": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+        "compositionTitles": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)"
+        ],
+        "detailSections": [
+          {
+            "title": "긴급 제동 보조 시스템(AEBS: 차량/보행자/자전거 탑승자 감지)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-5",
+        "name": "차간거리 경보 시스템",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차간거리 경보 시스템",
+        "compositionTitles": [
+          "차간거리 경보 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차간거리 경보 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "차간거리 경보 시스템",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-6",
+        "name": "차선 이탈 경보 시스템(LDW)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차선 이탈 경보 시스템(LDW)",
+        "compositionTitles": [
+          "차선 이탈 경보 시스템(LDW)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차선 이탈 경보 시스템(LDW)"
+        ],
+        "detailSections": [
+          {
+            "title": "차선 이탈 경보 시스템(LDW)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-7",
+        "name": "차선 이탈 방지 보조 시스템(LKA)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차선 이탈 방지 보조 시스템(LKA)",
+        "compositionTitles": [
+          "차선 이탈 방지 보조 시스템(LKA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차선 이탈 방지 보조 시스템(LKA)"
+        ],
+        "detailSections": [
+          {
+            "title": "차선 이탈 방지 보조 시스템(LKA)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-8",
+        "name": "오토매틱 하이빔(AHL)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토매틱 하이빔(AHL)",
+        "compositionTitles": [
+          "오토매틱 하이빔(AHL)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토매틱 하이빔(AHL)"
+        ],
+        "detailSections": [
+          {
+            "title": "오토매틱 하이빔(AHL)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-9",
+        "name": "운전피로도 경보 시스템(DDAW)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전피로도 경보 시스템(DDAW)",
+        "compositionTitles": [
+          "운전피로도 경보 시스템(DDAW)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전피로도 경보 시스템(DDAW)"
+        ],
+        "detailSections": [
+          {
+            "title": "운전피로도 경보 시스템(DDAW)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-10",
+        "name": "QRescue",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "QRescue",
+        "compositionTitles": [
+          "QRescue"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "QRescue"
+        ],
+        "detailSections": [
+          {
+            "title": "QRescue",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-11",
+        "name": "앞좌석 에어백(운전석/동승석)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 에어백(운전석/동승석)",
+        "compositionTitles": [
+          "앞좌석 에어백(운전석/동승석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 에어백(운전석/동승석)"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 에어백(운전석/동승석)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-12",
+        "name": "사이드(앞)/커튼 에어백",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "사이드(앞)/커튼 에어백",
+        "compositionTitles": [
+          "사이드(앞)/커튼 에어백"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "사이드(앞)/커튼 에어백"
+        ],
+        "detailSections": [
+          {
+            "title": "사이드(앞)/커튼 에어백",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-13",
+        "name": "차체자세 제어장치(ESC)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차체자세 제어장치(ESC)",
+        "compositionTitles": [
+          "차체자세 제어장치(ESC)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차체자세 제어장치(ESC)"
+        ],
+        "detailSections": [
+          {
+            "title": "차체자세 제어장치(ESC)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-14",
+        "name": "경사로 밀림 방지 장치(HSA)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "경사로 밀림 방지 장치(HSA)",
+        "compositionTitles": [
+          "경사로 밀림 방지 장치(HSA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "경사로 밀림 방지 장치(HSA)"
+        ],
+        "detailSections": [
+          {
+            "title": "경사로 밀림 방지 장치(HSA)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-15",
+        "name": "타이어 공기압 자동감지 시스템",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "타이어 공기압 자동감지 시스템",
+        "compositionTitles": [
+          "타이어 공기압 자동감지 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "타이어 공기압 자동감지 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "타이어 공기압 자동감지 시스템",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-16",
+        "name": "EBD-ABS (BAS 내장)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "EBD-ABS (BAS 내장)",
+        "compositionTitles": [
+          "EBD-ABS (BAS 내장)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "EBD-ABS (BAS 내장)"
+        ],
+        "detailSections": [
+          {
+            "title": "EBD-ABS (BAS 내장)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-17",
+        "name": "충돌감지 도어록 해제장치",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "충돌감지 도어록 해제장치",
+        "compositionTitles": [
+          "충돌감지 도어록 해제장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "충돌감지 도어록 해제장치"
+        ],
+        "detailSections": [
+          {
+            "title": "충돌감지 도어록 해제장치",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-18",
+        "name": "중앙집중식 도어록/차속 감응 오토 도어록",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "중앙집중식 도어록/차속 감응 오토 도어록",
+        "compositionTitles": [
+          "중앙집중식 도어록/차속 감응 오토 도어록"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "중앙집중식 도어록/차속 감응 오토 도어록"
+        ],
+        "detailSections": [
+          {
+            "title": "중앙집중식 도어록/차속 감응 오토 도어록",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-19",
+        "name": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+        "compositionTitles": [
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 3점식 시트벨트 (듀얼프리텐셔너/로드리미터/리마인드 경고 기능/높이 조절장치 포함)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-20",
+        "name": "뒷좌석 3점식 시트벨트",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 3점식 시트벨트",
+        "compositionTitles": [
+          "뒷좌석 3점식 시트벨트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 3점식 시트벨트"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 3점식 시트벨트",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-21",
+        "name": "ISOFIX 유아용 시트 고정 장치",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "ISOFIX 유아용 시트 고정 장치",
+        "compositionTitles": [
+          "ISOFIX 유아용 시트 고정 장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "ISOFIX 유아용 시트 고정 장치"
+        ],
+        "detailSections": [
+          {
+            "title": "ISOFIX 유아용 시트 고정 장치",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-22",
+        "name": "전/후륜 디스크 브레이크",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전/후륜 디스크 브레이크",
+        "compositionTitles": [
+          "전/후륜 디스크 브레이크"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전/후륜 디스크 브레이크"
+        ],
+        "detailSections": [
+          {
+            "title": "전/후륜 디스크 브레이크",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-23",
+        "name": "원터치 트리플 턴 시그널",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "원터치 트리플 턴 시그널",
+        "compositionTitles": [
+          "원터치 트리플 턴 시그널"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "원터치 트리플 턴 시그널"
+        ],
+        "detailSections": [
+          {
+            "title": "원터치 트리플 턴 시그널",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-24",
+        "name": "차량용 소화기",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "차량용 소화기",
+        "compositionTitles": [
+          "차량용 소화기"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "차량용 소화기"
+        ],
+        "detailSections": [
+          {
+            "title": "차량용 소화기",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-25",
+        "name": "사각지대 경보 시스템(BSW)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "사각지대 경보 시스템(BSW)",
+        "compositionTitles": [
+          "사각지대 경보 시스템(BSW)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "사각지대 경보 시스템(BSW)"
+        ],
+        "detailSections": [
+          {
+            "title": "사각지대 경보 시스템(BSW)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-26",
+        "name": "후방교차 충돌 경보 시스템(RCTA)",
+        "category": "안전",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "후방교차 충돌 경보 시스템(RCTA)",
+        "compositionTitles": [
+          "후방교차 충돌 경보 시스템(RCTA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "후방교차 충돌 경보 시스템(RCTA)"
+        ],
+        "detailSections": [
+          {
+            "title": "후방교차 충돌 경보 시스템(RCTA)",
+            "description": "안전 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-27",
+        "name": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+        "compositionTitles": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "F1® 다이내믹 블레이드 범퍼(바디 컬러)"
+        ],
+        "detailSections": [
+          {
+            "title": "F1® 다이내믹 블레이드 범퍼(바디 컬러)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-28",
+        "name": "새틴 크롬 로장주 엠블럼",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나 하이브리드/새틴 크롬 로장주 엠블럼.webp",
+        "showDetails": true,
+        "description": "새틴 크롬 로장주 엠블럼",
+        "compositionTitles": [
+          "새틴 크롬 로장주 엠블럼"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/새틴 크롬 로장주 엠블럼.webp"
+        ],
+        "detailTitles": [
+          "새틴 크롬 로장주 엠블럼"
+        ],
+        "detailSections": [
+          {
+            "title": "새틴 크롬 로장주 엠블럼",
+            "image": "르노/아르카나 하이브리드/새틴 크롬 로장주 엠블럼.webp",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-29",
+        "name": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+        "compositionTitles": [
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "도어 하단 새틴 크롬 데코 사이드 가니쉬"
+        ],
+        "detailSections": [
+          {
+            "title": "도어 하단 새틴 크롬 데코 사이드 가니쉬",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-30",
+        "name": "LED PURE VISION 헤드램프",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED PURE VISION 헤드램프",
+        "compositionTitles": [
+          "LED PURE VISION 헤드램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED PURE VISION 헤드램프"
+        ],
+        "detailSections": [
+          {
+            "title": "LED PURE VISION 헤드램프",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-31",
+        "name": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나 하이브리드/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+        "showDetails": true,
+        "description": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+        "compositionTitles": [
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp"
+        ],
+        "detailTitles": [
+          "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)"
+        ],
+        "detailSections": [
+          {
+            "title": "크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용)",
+            "image": "르노/아르카나 하이브리드/크리스탈 3D 타입 LED 리어 콤비네이션 램프(후미등 적용).webp",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-32",
+        "name": "LED 주간 주행등",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 주간 주행등",
+        "compositionTitles": [
+          "LED 주간 주행등"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 주간 주행등"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 주간 주행등",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-33",
+        "name": "새틴 크롬 데코(사이드 엠블리셔)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "새틴 크롬 데코(사이드 엠블리셔)",
+        "compositionTitles": [
+          "새틴 크롬 데코(사이드 엠블리셔)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "새틴 크롬 데코(사이드 엠블리셔)"
+        ],
+        "detailSections": [
+          {
+            "title": "새틴 크롬 데코(사이드 엠블리셔)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-34",
+        "name": "LED 방향 지시등(전방)",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 방향 지시등(전방)",
+        "compositionTitles": [
+          "LED 방향 지시등(전방)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 방향 지시등(전방)"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 방향 지시등(전방)",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-35",
+        "name": "LED 방향 지시등 일체형 아웃사이드 미러",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 방향 지시등 일체형 아웃사이드 미러",
+        "compositionTitles": [
+          "LED 방향 지시등 일체형 아웃사이드 미러"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 방향 지시등 일체형 아웃사이드 미러"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 방향 지시등 일체형 아웃사이드 미러",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-36",
+        "name": "블랙 아웃사이드 미러 커버",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 아웃사이드 미러 커버",
+        "compositionTitles": [
+          "블랙 아웃사이드 미러 커버"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 아웃사이드 미러 커버"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 아웃사이드 미러 커버",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-37",
+        "name": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+        "compositionTitles": [
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어"
+        ],
+        "detailSections": [
+          {
+            "title": "17” 다크 그레이 알로이 휠 & 215/60 R17 타이어",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-38",
+        "name": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+        "compositionTitles": [
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "바디컬러 범퍼 및 아웃사이드 도어 핸들"
+        ],
+        "detailSections": [
+          {
+            "title": "바디컬러 범퍼 및 아웃사이드 도어 핸들",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-39",
+        "name": "프런트/리어 그레이 스키드",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "프런트/리어 그레이 스키드",
+        "compositionTitles": [
+          "프런트/리어 그레이 스키드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "프런트/리어 그레이 스키드"
+        ],
+        "detailSections": [
+          {
+            "title": "프런트/리어 그레이 스키드",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-40",
+        "name": "샤크 안테나",
+        "category": "외관",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "샤크 안테나",
+        "compositionTitles": [
+          "샤크 안테나"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "샤크 안테나"
+        ],
+        "detailSections": [
+          {
+            "title": "샤크 안테나",
+            "description": "외관 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-41",
+        "name": "블랙 인조 가죽 시트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 인조 가죽 시트",
+        "compositionTitles": [
+          "블랙 인조 가죽 시트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 인조 가죽 시트"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 인조 가죽 시트",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-42",
+        "name": "10.25” TFT 클러스터",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "10.25” TFT 클러스터",
+        "compositionTitles": [
+          "10.25” TFT 클러스터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "10.25” TFT 클러스터"
+        ],
+        "detailSections": [
+          {
+            "title": "10.25” TFT 클러스터",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-43",
+        "name": "블랙 헤드라이너",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 헤드라이너",
+        "compositionTitles": [
+          "블랙 헤드라이너"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 헤드라이너"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 헤드라이너",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-44",
+        "name": "LED 룸 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "LED 룸 램프",
+        "compositionTitles": [
+          "LED 룸 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "LED 룸 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "LED 룸 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-45",
+        "name": "선바이저 조명(운전석 /동승석)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "선바이저 조명(운전석 /동승석)",
+        "compositionTitles": [
+          "선바이저 조명(운전석 /동승석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "선바이저 조명(운전석 /동승석)"
+        ],
+        "detailSections": [
+          {
+            "title": "선바이저 조명(운전석 /동승석)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-46",
+        "name": "글로브 박스 조명",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "글로브 박스 조명",
+        "compositionTitles": [
+          "글로브 박스 조명"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "글로브 박스 조명"
+        ],
+        "detailSections": [
+          {
+            "title": "글로브 박스 조명",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-47",
+        "name": "2열 센터 암레스트(컵홀더 포함)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "2열 센터 암레스트(컵홀더 포함)",
+        "compositionTitles": [
+          "2열 센터 암레스트(컵홀더 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "2열 센터 암레스트(컵홀더 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "2열 센터 암레스트(컵홀더 포함)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-48",
+        "name": "소프트 필 스티어링 휠",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "소프트 필 스티어링 휠",
+        "compositionTitles": [
+          "소프트 필 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "소프트 필 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "소프트 필 스티어링 휠",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-49",
+        "name": "블랙 인테리어",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블랙 인테리어",
+        "compositionTitles": [
+          "블랙 인테리어"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블랙 인테리어"
+        ],
+        "detailSections": [
+          {
+            "title": "블랙 인테리어",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-50",
+        "name": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+        "compositionTitles": [
+          "운전석/동승석 매뉴얼 시트 높이 조절장치"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전석/동승석 매뉴얼 시트 높이 조절장치"
+        ],
+        "detailSections": [
+          {
+            "title": "운전석/동승석 매뉴얼 시트 높이 조절장치",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-51",
+        "name": "앞좌석 슬라이딩 암레스트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 슬라이딩 암레스트",
+        "compositionTitles": [
+          "앞좌석 슬라이딩 암레스트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 슬라이딩 암레스트"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 슬라이딩 암레스트",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-52",
+        "name": "도어포켓(앞/뒤)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "도어포켓(앞/뒤)",
+        "compositionTitles": [
+          "도어포켓(앞/뒤)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "도어포켓(앞/뒤)"
+        ],
+        "detailSections": [
+          {
+            "title": "도어포켓(앞/뒤)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-53",
+        "name": "앞좌석 컵홀더",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 컵홀더",
+        "compositionTitles": [
+          "앞좌석 컵홀더"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 컵홀더"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 컵홀더",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-54",
+        "name": "운전석/동승석 선바이저(거울 포함)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "운전석/동승석 선바이저(거울 포함)",
+        "compositionTitles": [
+          "운전석/동승석 선바이저(거울 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "운전석/동승석 선바이저(거울 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "운전석/동승석 선바이저(거울 포함)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-55",
+        "name": "맵 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "맵 램프",
+        "compositionTitles": [
+          "맵 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "맵 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "맵 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-56",
+        "name": "룸 램프",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "룸 램프",
+        "compositionTitles": [
+          "룸 램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "룸 램프"
+        ],
+        "detailSections": [
+          {
+            "title": "룸 램프",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-57",
+        "name": "2열 6:4 폴딩시트",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나 하이브리드/2열 64 폴딩시트.webp",
+        "showDetails": true,
+        "description": "2열 6:4 폴딩시트",
+        "compositionTitles": [
+          "2열 6:4 폴딩시트"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/2열 64 폴딩시트.webp"
+        ],
+        "detailTitles": [
+          "2열 6:4 폴딩시트"
+        ],
+        "detailSections": [
+          {
+            "title": "2열 6:4 폴딩시트",
+            "image": "르노/아르카나 하이브리드/2열 64 폴딩시트.webp",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-58",
+        "name": "뒷좌석 분리형 헤드레스트(센터 제외)",
+        "category": "내장",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 분리형 헤드레스트(센터 제외)",
+        "compositionTitles": [
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 분리형 헤드레스트(센터 제외)"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 분리형 헤드레스트(센터 제외)",
+            "description": "내장 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-59",
+        "name": "앞좌석 통풍/열선시트",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "앞좌석 통풍/열선시트",
+        "compositionTitles": [
+          "앞좌석 통풍/열선시트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "앞좌석 통풍/열선시트"
+        ],
+        "detailSections": [
+          {
+            "title": "앞좌석 통풍/열선시트",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-60",
+        "name": "오토홀드",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토홀드",
+        "compositionTitles": [
+          "오토홀드"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토홀드"
+        ],
+        "detailSections": [
+          {
+            "title": "오토홀드",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-61",
+        "name": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+        "compositionTitles": [
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)"
+        ],
+        "detailSections": [
+          {
+            "title": "Multi-Sense(드라이빙 모드 통합 제어 시스템, 3모드-Eco, Sport, My Sense)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-62",
+        "name": "컬러 가변형 앰비언트 라이트",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "컬러 가변형 앰비언트 라이트",
+        "compositionTitles": [
+          "컬러 가변형 앰비언트 라이트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "컬러 가변형 앰비언트 라이트"
+        ],
+        "detailSections": [
+          {
+            "title": "컬러 가변형 앰비언트 라이트",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-63",
+        "name": "주차 조향 보조 시스템(EPA)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "주차 조향 보조 시스템(EPA)",
+        "compositionTitles": [
+          "주차 조향 보조 시스템(EPA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "주차 조향 보조 시스템(EPA)"
+        ],
+        "detailSections": [
+          {
+            "title": "주차 조향 보조 시스템(EPA)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-64",
+        "name": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+        "compositionTitles": [
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "360° 주차 보조 시스템(전방/측방 /후방 경보)"
+        ],
+        "detailSections": [
+          {
+            "title": "360° 주차 보조 시스템(전방/측방 /후방 경보)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-65",
+        "name": "스마트폰 무선 충전",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "스마트폰 무선 충전",
+        "compositionTitles": [
+          "스마트폰 무선 충전"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "스마트폰 무선 충전"
+        ],
+        "detailSections": [
+          {
+            "title": "스마트폰 무선 충전",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-66",
+        "name": "열선 스티어링 휠",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "열선 스티어링 휠",
+        "compositionTitles": [
+          "열선 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "열선 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "열선 스티어링 휠",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-67",
+        "name": "오토라이팅 헤드램프",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토라이팅 헤드램프",
+        "compositionTitles": [
+          "오토라이팅 헤드램프"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토라이팅 헤드램프"
+        ],
+        "detailSections": [
+          {
+            "title": "오토라이팅 헤드램프",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-68",
+        "name": "레인센싱 와이퍼",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "레인센싱 와이퍼",
+        "compositionTitles": [
+          "레인센싱 와이퍼"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "레인센싱 와이퍼"
+        ],
+        "detailSections": [
+          {
+            "title": "레인센싱 와이퍼",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-69",
+        "name": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+        "compositionTitles": [
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)"
+        ],
+        "detailSections": [
+          {
+            "title": "인텔리전트 스마트 카드 시스템(버튼 시동/오토 클로징 & 오프닝)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-70",
+        "name": "전자식 파킹브레이크",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전자식 파킹브레이크",
+        "compositionTitles": [
+          "전자식 파킹브레이크"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전자식 파킹브레이크"
+        ],
+        "detailSections": [
+          {
+            "title": "전자식 파킹브레이크",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-71",
+        "name": "원터치 세이프티 파워 윈도우(전좌석)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "원터치 세이프티 파워 윈도우(전좌석)",
+        "compositionTitles": [
+          "원터치 세이프티 파워 윈도우(전좌석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "원터치 세이프티 파워 윈도우(전좌석)"
+        ],
+        "detailSections": [
+          {
+            "title": "원터치 세이프티 파워 윈도우(전좌석)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-72",
+        "name": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+        "compositionTitles": [
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)"
+        ],
+        "detailSections": [
+          {
+            "title": "아웃사이드 미러(자동 접이/전동조절/열선 기능 포함)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-73",
+        "name": "후방 경보 시스템",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "후방 경보 시스템",
+        "compositionTitles": [
+          "후방 경보 시스템"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "후방 경보 시스템"
+        ],
+        "detailSections": [
+          {
+            "title": "후방 경보 시스템",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-74",
+        "name": "후방 카메라",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "후방 카메라",
+        "compositionTitles": [
+          "후방 카메라"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "후방 카메라"
+        ],
+        "detailSections": [
+          {
+            "title": "후방 카메라",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-75",
+        "name": "12V 파워 아웃렛(앞좌석)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "12V 파워 아웃렛(앞좌석)",
+        "compositionTitles": [
+          "12V 파워 아웃렛(앞좌석)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "12V 파워 아웃렛(앞좌석)"
+        ],
+        "detailSections": [
+          {
+            "title": "12V 파워 아웃렛(앞좌석)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-76",
+        "name": "트립 컴퓨터",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "트립 컴퓨터",
+        "compositionTitles": [
+          "트립 컴퓨터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "트립 컴퓨터"
+        ],
+        "detailSections": [
+          {
+            "title": "트립 컴퓨터",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-77",
+        "name": "수동식 틸트/텔레스코픽 스티어링 휠",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "수동식 틸트/텔레스코픽 스티어링 휠",
+        "compositionTitles": [
+          "수동식 틸트/텔레스코픽 스티어링 휠"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "수동식 틸트/텔레스코픽 스티어링 휠"
+        ],
+        "detailSections": [
+          {
+            "title": "수동식 틸트/텔레스코픽 스티어링 휠",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-78",
+        "name": "전자식 차속 감응파워 스티어링(SSEPS)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "전자식 차속 감응파워 스티어링(SSEPS)",
+        "compositionTitles": [
+          "전자식 차속 감응파워 스티어링(SSEPS)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "전자식 차속 감응파워 스티어링(SSEPS)"
+        ],
+        "detailSections": [
+          {
+            "title": "전자식 차속 감응파워 스티어링(SSEPS)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-79",
+        "name": "하이패스/전자식 룸 미러",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "하이패스/전자식 룸 미러",
+        "compositionTitles": [
+          "하이패스/전자식 룸 미러"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "하이패스/전자식 룸 미러"
+        ],
+        "detailSections": [
+          {
+            "title": "하이패스/전자식 룸 미러",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-80",
+        "name": "스피드리미터",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "스피드리미터",
+        "compositionTitles": [
+          "스피드리미터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "스피드리미터"
+        ],
+        "detailSections": [
+          {
+            "title": "스피드리미터",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-81",
+        "name": "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)",
+        "compositionTitles": [
+          "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)"
+        ],
+        "detailSections": [
+          {
+            "title": "고속화 도로 및 정체 구간 주행보조(HTA): 어댑티브 크루즈 컨트롤(ACC: 정차 및 재출발) + 차선 유지 보조(LCA)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-82",
+        "name": "E-시프터(전자식 기어 변속기)",
+        "category": "편의",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "E-시프터(전자식 기어 변속기)",
+        "compositionTitles": [
+          "E-시프터(전자식 기어 변속기)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "E-시프터(전자식 기어 변속기)"
+        ],
+        "detailSections": [
+          {
+            "title": "E-시프터(전자식 기어 변속기)",
+            "description": "편의 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-83",
+        "name": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "image": "르노/아르카나 하이브리드/openR link 9.3” 내비게이션.webp",
+        "showDetails": true,
+        "description": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+        "compositionTitles": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)"
+        ],
+        "detailImages": [
+          "르노/아르카나 하이브리드/openR link 9.3” 내비게이션.webp"
+        ],
+        "detailTitles": [
+          "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)"
+        ],
+        "detailSections": [
+          {
+            "title": "openR link 9.3” 내비게이션(정전식 터치 스크린, 어시스트 콜, 무선 소프트웨어 업데이트 (OTA)포함, 무선 애플 카플레이 & 무선 구글 안드로이드 오토)",
+            "image": "르노/아르카나 하이브리드/openR link 9.3” 내비게이션.webp",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-84",
+        "name": "6 스피커",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "6 스피커",
+        "compositionTitles": [
+          "6 스피커"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "6 스피커"
+        ],
+        "detailSections": [
+          {
+            "title": "6 스피커",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-85",
+        "name": "AUX & USB 단자",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "AUX & USB 단자",
+        "compositionTitles": [
+          "AUX & USB 단자"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "AUX & USB 단자"
+        ],
+        "detailSections": [
+          {
+            "title": "AUX & USB 단자",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-86",
+        "name": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+        "compositionTitles": [
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "블루투스 핸즈 프리(오디오 스트리밍 기능)"
+        ],
+        "detailSections": [
+          {
+            "title": "블루투스 핸즈 프리(오디오 스트리밍 기능)",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-87",
+        "name": "스티어링 휠 오디오 리모컨",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "스티어링 휠 오디오 리모컨",
+        "compositionTitles": [
+          "스티어링 휠 오디오 리모컨"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "스티어링 휠 오디오 리모컨"
+        ],
+        "detailSections": [
+          {
+            "title": "스티어링 휠 오디오 리모컨",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-88",
+        "name": "뒷좌석 USB 단자",
+        "category": "멀티미디어",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "뒷좌석 USB 단자",
+        "compositionTitles": [
+          "뒷좌석 USB 단자"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "뒷좌석 USB 단자"
+        ],
+        "detailSections": [
+          {
+            "title": "뒷좌석 USB 단자",
+            "description": "멀티미디어 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-89",
+        "name": "오토 에어컨",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "오토 에어컨",
+        "compositionTitles": [
+          "오토 에어컨"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "오토 에어컨"
+        ],
+        "detailSections": [
+          {
+            "title": "오토 에어컨",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-90",
+        "name": "리어 에어 벤트",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "리어 에어 벤트",
+        "compositionTitles": [
+          "리어 에어 벤트"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "리어 에어 벤트"
+        ],
+        "detailSections": [
+          {
+            "title": "리어 에어 벤트",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      },
+      {
+        "id": "arkana-hybrid-basic-91",
+        "name": "초미세먼지 고효율 필터",
+        "category": "공조시스템",
+        "status": "기본 포함",
+        "price": "기본 포함",
+        "textOnly": true,
+        "showDetails": true,
+        "description": "초미세먼지 고효율 필터",
+        "compositionTitles": [
+          "초미세먼지 고효율 필터"
+        ],
+        "detailImages": [],
+        "detailTitles": [
+          "초미세먼지 고효율 필터"
+        ],
+        "detailSections": [
+          {
+            "title": "초미세먼지 고효율 필터",
+            "description": "공조시스템 기본 포함 품목"
+          }
+        ],
+        "source": "https://cdn.renault.co.kr/upload/asset/price/price_Arkana_202611.pdf",
+        "sourceModelCode": "BNGALFHJ11HDE"
+      }
+    ]
+  }
+}

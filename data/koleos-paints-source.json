@@ -1,0 +1,267 @@
+{
+  "source": "https://www.renault.co.kr/ko/buy/koleos_mycar_step.jsp?mcode=K603",
+  "endpoint": "https://www.renault.co.kr/ko/buy/koleos_mycar_colorView.jsp",
+  "checkedAt": "2026-11-20",
+  "byTrim": [
+    {
+      "key": "르노|그랑 콜레오스|2.0 가솔린|Techno",
+      "car": "그랑 콜레오스",
+      "model": "2.0 가솔린",
+      "trim": "Techno",
+      "modelCode": "TUMALCSK60EDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스|2.0 가솔린|Iconic",
+      "car": "그랑 콜레오스",
+      "model": "2.0 가솔린",
+      "trim": "Iconic",
+      "modelCode": "TUMALGSK60EDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        },
+        {
+          "name": "새틴 유니버스 화이트",
+          "code": "QPE",
+          "price": 500000
+        },
+        {
+          "name": "새틴 녹턴 블루",
+          "code": "RSB",
+          "price": 500000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스|2.0 가솔린|Esprit Alpine",
+      "car": "그랑 콜레오스",
+      "model": "2.0 가솔린",
+      "trim": "Esprit Alpine",
+      "modelCode": "TUMALHSK60EDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        },
+        {
+          "name": "새틴 유니버스 화이트",
+          "code": "QPE",
+          "price": 500000
+        },
+        {
+          "name": "새틴 녹턴 블루",
+          "code": "RSB",
+          "price": 500000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스|2.0 가솔린 4WD|Iconic",
+      "car": "그랑 콜레오스",
+      "model": "2.0 가솔린 4WD",
+      "trim": "Iconic",
+      "modelCode": "TUNNLGEK60EDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        },
+        {
+          "name": "새틴 유니버스 화이트",
+          "code": "QPE",
+          "price": 500000
+        },
+        {
+          "name": "새틴 녹턴 블루",
+          "code": "RSB",
+          "price": 500000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스 하이브리드 E-Tech|1.5 HEV|Techno",
+      "car": "그랑 콜레오스 하이브리드 E-Tech",
+      "model": "1.5 HEV",
+      "trim": "Techno",
+      "modelCode": "TUPALRDK60IDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스 하이브리드 E-Tech|1.5 HEV|Iconic",
+      "car": "그랑 콜레오스 하이브리드 E-Tech",
+      "model": "1.5 HEV",
+      "trim": "Iconic",
+      "modelCode": "TUPALVDK60IDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        },
+        {
+          "name": "새틴 유니버스 화이트",
+          "code": "QPE",
+          "price": 500000
+        },
+        {
+          "name": "새틴 녹턴 블루",
+          "code": "RSB",
+          "price": 500000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스 하이브리드 E-Tech|1.5 HEV|Esprit Alpine",
+      "car": "그랑 콜레오스 하이브리드 E-Tech",
+      "model": "1.5 HEV",
+      "trim": "Esprit Alpine",
+      "modelCode": "TUPALWDK60IDF",
+      "colors": [
+        {
+          "name": "메탈릭 블랙",
+          "code": "GXA",
+          "price": 0
+        },
+        {
+          "name": "어반 그레이",
+          "code": "KAD",
+          "price": 0
+        },
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 300000
+        },
+        {
+          "name": "새틴 유니버스 화이트",
+          "code": "QPE",
+          "price": 500000
+        },
+        {
+          "name": "새틴 녹턴 블루",
+          "code": "RSB",
+          "price": 500000
+        }
+      ]
+    },
+    {
+      "key": "르노|그랑 콜레오스 하이브리드 E-Tech|1.5 HEV|Esprit Alpine étoile",
+      "car": "그랑 콜레오스 하이브리드 E-Tech",
+      "model": "1.5 HEV",
+      "trim": "Esprit Alpine étoile",
+      "modelCode": "TUPALWDK60IDG",
+      "colors": [
+        {
+          "name": "클라우드 펄",
+          "code": "QXD",
+          "price": 0
+        }
+      ]
+    }
+  ],
+  "newImage": {
+    "url": "https://cdn.renault.co.kr/upload/asset/koleos/27my/vr/color/TUPALWDK60IDF/RSB/001.webp",
+    "path": "images/vehicles/르노/그랑콜레오스-새틴 녹턴 블루.webp",
+    "enabled": false,
+    "status": "사용자 요청으로 새틴 녹턴 블루 색상 제외"
+  },
+  "sitePalette": {
+    "policy": "사용자 요청에 따라 최초 등록된 6색과 순서 및 기존 이미지 보존",
+    "colors": [
+      "메탈릭 블랙",
+      "미네랄 코퍼",
+      "새틴 어반 그레이",
+      "새틴 유니버스 화이트",
+      "어반 그레이",
+      "클라우드 펄"
+    ]
+  },
+  "legacyColorRules": {
+    "source": "https://cdn.renault.co.kr/upload/asset/price/price_koleos_202606.pdf",
+    "미네랄 코퍼": [
+      "Techno",
+      "Iconic"
+    ],
+    "새틴 어반 그레이": [
+      "Iconic",
+      "Esprit Alpine"
+    ]
+  }
+}

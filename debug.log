@@ -17,3 +17,9 @@
 [1116/155545.641:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: file:///C:/Users/new/AppData/Local/Temp/ag-avante-source/paints-gallery.html (1)
 [1116/155545.661:INFO:CONSOLE:1] "Canvas2D: Multiple readback operations using getImageData are faster with the willReadFrequently attribute set to true. See: https://html.spec.whatwg.org/multipage/canvas.html#concept-canvas-will-read-frequently", source: file:///C:/Users/new/AppData/Local/Temp/ag-avante-source/paints-gallery.html (1)
 [1117/100749.160:INFO:CONSOLE:242] "Uncaught SyntaxError: Identifier 'optionStatusLabel' has already been declared", source: file:///C:/Users/new/AppData/Local/Temp/ag-kona-selection-fix/browser-check.html (242)
+[1118/153020.338:ERROR:components\viz\service\display\display.cc:271] Frame latency is negative: -0.01 ms
+[1119/144407.123:INFO:CONSOLE:1] "Uncaught SyntaxError: Invalid or unexpected token", source: file:///C:/Users/new/AppData/Local/Temp/ag-trailblazer-source/extract.html (1)
+[1119/144407.125:INFO:CONSOLE:1] "Uncaught SyntaxError: Invalid or unexpected token", source: file:///C:/Users/new/AppData/Local/Temp/ag-trailblazer-source/extract.html (1)
+[1119/144407.555:INFO:CONSOLE:1] "Uncaught SyntaxError: Invalid or unexpected token", source: file:///C:/Users/new/AppData/Local/Temp/ag-trailblazer-source/extract.html (1)
+[1119/144407.555:INFO:CONSOLE:1] "Uncaught SyntaxError: Invalid or unexpected token", source: file:///C:/Users/new/AppData/Local/Temp/ag-trailblazer-source/extract.html (1)
+[1119/150501.096:INFO:CONSOLE:474] "Uncaught ReferenceError: confirmTrimSelectionButton is not defined", source: file:///C:/Users/new/AppData/Local/Temp/ag-trailblazer-source/paint-trims-check.html (474)
